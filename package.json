@@ -1,0 +1,21 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "my github.io by dalpang",
+  "license": "dalpang",
+  "type": "module",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "clean-dev": "vuepress dev docs --clean-cache",
+    "update-package": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.15",
+    "@vuepress/plugin-blog": "^2.0.0-rc.11",
+    "@vuepress/theme-default": "2.0.0-rc.44",
+    "sass": "^1.79.1",
+    "vue": "^3.5.6",
+    "vuepress": "2.0.0-rc.15"
+  }
+}
