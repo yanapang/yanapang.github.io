@@ -3,8 +3,9 @@ import Link from 'next/link';
 export default function NavHeader() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      {/*<a className="navbar-brand" href="/">Hello</a>*/}
-      <img src="/post/archive.svg" alt="archive_logo" />
+      <Link className="navbar-brand" href="/">
+        <img src="/post/archive.svg" alt="archive_logo" />
+      </Link>
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>

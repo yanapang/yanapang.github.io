@@ -18,7 +18,7 @@ export default function Home({ allPostsData }: { allPostsData: Post[] }) {
   return (
     <main className="max-w-2xl mx-auto p-8">
       <NavHeader />
-
+      <h3>This site is under Construction.</h3>
       <div className="row">
         <div className="col-2">
           <SideNav />
