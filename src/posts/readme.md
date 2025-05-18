@@ -1,5 +1,6 @@
 ---
 title: "First Post"
+slug: 'readme'
 date: "2025-05-18"
 ---
 
