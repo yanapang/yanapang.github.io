@@ -4,6 +4,7 @@ import { getSortedPostsData } from '@/lib/posts';
 import { Post } from '@/types/common/post';
 import NavHeader from '@/pages/components/NavHeader';
 import SideNav from '@/pages/components/SideNav';
+import { Container } from 'postcss';
 
 export const getStaticProps: GetStaticProps = async () => {
   const allPostsData = getSortedPostsData();
@@ -18,7 +19,7 @@ export default function Home({ allPostsData }: { allPostsData: Post[] }) {
   return (
     <main className="max-w-2xl mx-auto p-8">
       <NavHeader />
-      <h3>This site is under Construction.</h3>
+      <h3 className={'title'}>This site is under Construction.</h3>
       <div className="row">
         <div className="col-2">
           <SideNav />
@@ -51,6 +52,5 @@ export default function Home({ allPostsData }: { allPostsData: Post[] }) {
         </div>
       </div>
     </main>
-
   );
 }
