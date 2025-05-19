@@ -14,6 +14,8 @@ export const getStaticProps: GetStaticProps = async () => {
   };
 };
 
+const header = ['Title', 'Created At'];
+
 export default function Home({ allPostsData }: { allPostsData: Post[] }) {
   return (
     <main className="max-w-2xl mx-auto p-8">
@@ -28,15 +30,12 @@ export default function Home({ allPostsData }: { allPostsData: Post[] }) {
             <table className="table">
               <thead>
               <tr>
-                <th scope="col">No</th>
-                <th scope="col">Title</th>
-                <th scope="col">Created At</th>
+                {header.map((item) => (<td key={item}>{item}</td>))}
               </tr>
               </thead>
               <tbody>
               {allPostsData.map(({ slug, title, date }, index) => (
                 <tr key={slug}>
-                  <td scope="row">{index + 1}</td>
                   <td>
                     <Link href={`/posts/${slug}`}>
                       {title}
