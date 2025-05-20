@@ -34,7 +34,7 @@ export default function Home({ allPostsData }: { allPostsData: Post[] }) {
               </tr>
               </thead>
               <tbody>
-              {allPostsData.map(({ slug, title, date }, index) => (
+              {allPostsData.map(({ slug, title, date }) => (
                 <tr key={slug}>
                   <td>
                     <Link href={`/posts/${slug}`}>
