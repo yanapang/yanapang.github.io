@@ -2,6 +2,7 @@ import { getPostData, getSortedPostsData } from '@/lib/posts';
 import { GetStaticPropsContext } from 'next';
 import NavHeader from '@/pages/components/NavHeader';
 import SideNav from '@/pages/components/SideNav';
+import Footer from '@/pages/components/Footer';
 
 export async function getStaticPaths() {
   const posts = getSortedPostsData();
@@ -28,6 +29,7 @@ export default function Post({ postData }: any) {
           <div className="text-sm text-gray-500 mb-4">{postData.date}</div>
           <article dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
         </div>
+        <Footer />
       </div>
     </main>
   );

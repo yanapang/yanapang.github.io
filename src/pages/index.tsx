@@ -4,6 +4,7 @@ import { getSortedPostsData } from '@/lib/posts';
 import { Post } from '@/types/common/post';
 import NavHeader from '@/pages/components/NavHeader';
 import SideNav from '@/pages/components/SideNav';
+import Footer from './components/Footer';
 
 export const getStaticProps: GetStaticProps = async () => {
   const allPostsData = getSortedPostsData();
@@ -13,6 +14,7 @@ export const getStaticProps: GetStaticProps = async () => {
     },
   };
 };
+
 
 const header = ['Title', 'Created At'];
 
@@ -48,6 +50,7 @@ export default function Home({ allPostsData }: { allPostsData: Post[] }) {
             </table>
           </div>
         </div>
+        <Footer />
       </div>
     </main>
   );
