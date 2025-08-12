@@ -14,9 +14,6 @@ export const getStaticProps: GetStaticProps = async () => {
   };
 };
 
-
-
-
 export default function Home({ allPostsData }: { allPostsData: Post[] }) {
   return (
     <div className="min-h-screen flex flex-col">
@@ -25,8 +22,8 @@ export default function Home({ allPostsData }: { allPostsData: Post[] }) {
       {/* Hero Section */}
       <section className="hero-section">
         <div className="container mx-auto px-6 py-16 text-center">
-          <h1 className="hero-title">Welcome to Yana's Blog</h1>
-          <p className="hero-subtitle">Thoughts, experiences, and insights from a developer's journey</p>
+          <h1 className="hero-title">Welcome to Yana&apos;s Blog</h1>
+          <p className="hero-subtitle">Thoughts, experiences, and insights from a developer&apos;s journey</p>
           <div className="hero-buttons">
             <Link href="/posts" className="btn-primary">Read Posts</Link>
             <Link href="/about" className="btn-secondary">About Me</Link>

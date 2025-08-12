@@ -9,19 +9,19 @@ export default function About() {
       <NavHeader />
 
       {/* About Hero Section */}
-      <section className="about-hero">
-        <div className="container mx-auto px-6 py-20 text-center">
+      <section className="about-hero text-center py-20 px-4">
+        <div className="container mx-auto">
           <div className="max-w-4xl mx-auto">
             <Image 
               src="/profile-picture.jpg" // Placeholder: Add your image to the /public folder
-              alt="Yana Hwang"
+              alt="Yana&apos;s Profile Picture"
               width={150}
               height={150}
               className="profile-image"
             />
-            <h1 className="about-hero-title">About Me</h1>
+            <h1 className="about-hero-title">Hi, I&apos;m Yana</h1>
             <p className="about-hero-subtitle">
-              I'm a passionate developer, writer, and lifelong learner, dedicated to building beautiful and functional web experiences.
+              A passionate developer on a journey to build beautiful, functional, and user-centric web experiences.
             </p>
           </div>
         </div>
@@ -29,26 +29,23 @@ export default function About() {
 
       {/* Main Content */}
       <section className="py-24 bg-white">
-        <div className="container mx-auto px-6">
+        <div className="container mx-auto py-20 px-4">
           <div className="max-w-3xl mx-auto space-y-16">
             
             {/* My Journey Section */}
-            <div>
+            <div className="mb-20 text-center">
               <h2 className="about-section-title">My Journey</h2>
-              <div className="prose lg:prose-xl max-w-none">
+              <div className="prose lg:prose-xl mx-auto mt-6 text-gray-600">
                 <p>
-                  My journey into the world of technology started with a simple "Hello, World!" and has since evolved into a deep passion for software development. I thrive on turning complex problems into elegant solutions and am constantly exploring new technologies to push the boundaries of what's possible. From front-end design to back-end architecture, I love every aspect of the development process.
-                </p>
-                <p>
-                  This blog is my space to share what I've learned, document my projects, and connect with other like-minded individuals. I believe in the power of open-source and collaborative learning.
+                  From my first "Hello, World!" to architecting complex applications, my fascination with technology has been a constant driving force. I believe in the power of code to solve real-world problems and create meaningful connections. This blog is my space to document my learnings, share my insights, and connect with fellow tech enthusiasts. I&apos;m always exploring new technologies, refining my skills, and striving to write clean, efficient, and maintainable code. It&apos;s a journey of continuous growth, and I&apos;m excited to share it with you.
                 </p>
               </div>
             </div>
 
             {/* My Skills Section */}
-            <div>
+            <div className="mb-20 text-center">
               <h2 className="about-section-title">My Skills</h2>
-              <div className="skills-grid">
+              <div className="skills-grid mt-10">
                 <div className="skill-item"><span>📘</span> TypeScript</div>
                 <div className="skill-item"><span>⚛️</span> Vue3 </div>
                 <div className="skill-item"><span>🟢</span> Java </div>
@@ -63,11 +60,13 @@ export default function About() {
             </div>
 
             {/* CTA Section */}
-            <div className="text-center pt-8">
-              <h2 className="text-3xl font-bold text-gray-800 mb-4">Have a project in mind?</h2>
-              <p className="text-gray-600 mb-8">I'm always open to discussing new projects and opportunities.</p>
-              <Link href="/contact" className="btn-primary-about">
-                Let's Connect
+            <div className="text-center">
+              <h2 className="about-section-title">Let&apos;s Connect</h2>
+              <p className="prose lg:prose-xl mx-auto mt-6 text-gray-600">
+                I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team. Feel free to reach out!
+              </p>
+              <Link href="/contact" legacyBehavior>
+                <a className="btn-primary-about mt-8">Contact Me</a>
               </Link>
             </div>
 

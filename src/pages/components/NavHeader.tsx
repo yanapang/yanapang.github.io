@@ -1,12 +1,11 @@
 import Link from 'next/link';
-import Image from 'next/image';
 
 export default function NavHeader() {
   return (
     <nav className="navbar">
       <div className="container">
         <Link className="navbar-brand" href="/">
-          Yana's Blog
+          Yana&apos;s Blog
         </Link>
         <div className="navbar-nav">
           <Link className="nav-link" href="/">Home</Link>

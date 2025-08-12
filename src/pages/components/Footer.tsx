@@ -5,33 +5,36 @@ export default function Footer() {
     <footer className="footer">
       <div className="container">
         <div className="footer-content">
-          <div className="footer-section">
-            <h3>Yana's Blog</h3>
-            <p>Sharing thoughts, experiences, and insights from a developer's journey. Join me as I explore technology, coding, and life.</p>
+          <div className="footer-about">
+            <h3>Yana&apos;s Blog</h3>
+            <p>A personal blog where I share my journey and insights on web development and technology. Thanks for stopping by!</p>
           </div>
-          
-          <div className="footer-section">
-            <h3>Quick Links</h3>
-            <div className="footer-links">
-              <Link href="/">Home</Link>
-              <Link href="/about">About</Link>
-              <Link href="/posts">Posts</Link>
-              <Link href="/contact">Contact</Link>
-            </div>
+          <div className="footer-links">
+            <h4>Quick Links</h4>
+            <ul>
+              <li><Link href="/">Home</Link></li>
+              <li><Link href="/about">About</Link></li>
+              <li><Link href="/posts">Posts</Link></li>
+              <li><Link href="/contact">Contact</Link></li>
+            </ul>
           </div>
-          
-          <div className="footer-section">
-            <h3>Connect</h3>
-            <div className="footer-links">
-              <a href="https://github.com/yanapang" target="_blank" rel="noopener noreferrer">GitHub</a>
-              <a href="https://linkedin.com/in/yanapang" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-              <a href="mailto:yana@example.com">Email</a>
+          <div className="footer-social">
+            <h4>Connect with Me</h4>
+            <div className="social-icons">
+              <a href="https://github.com/yanapang" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                {/* Add GitHub Icon Here */}
+              </a>
+              <a href="https://linkedin.com/in/yanapang" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                {/* Add LinkedIn Icon Here */}
+              </a>
+              <a href="mailto:yana@example.com" aria-label="Email">
+                {/* Add Email Icon Here */}
+              </a>
             </div>
           </div>
         </div>
-        
         <div className="footer-bottom">
-          <p>&copy; 2025 Yana's Blog. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Yana&apos;s Blog. All Rights Reserved.</p>
         </div>
       </div>
     </footer>
