@@ -3,29 +3,16 @@ import Image from 'next/image';
 
 export default function NavHeader() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <div className={'container'}>
+    <nav className="navbar">
+      <div className="container">
         <Link className="navbar-brand" href="/">
-          <Image src="/post/archive.svg" alt="archive_logo" width="30" height="30" />
+          Yana's Blog
         </Link>
-        <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span className="navbar-toggler-icon"></span>
-        </button>
-        <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav">
-            <li className="nav-item active">
-              <Link className="nav-link" href="/">Home</Link>
-            </li>
-            {/*<li className="nav-item">*/}
-            {/*  <a className="nav-link" href="#">Features</a>*/}
-            {/*</li>*/}
-            {/*<li className="nav-item">*/}
-            {/*  <a className="nav-link" href="#">Pricing</a>*/}
-            {/*</li>*/}
-            {/*<li className="nav-item">*/}
-            {/*  <a className="nav-link disabled" href="#">Disabled</a>*/}
-            {/*</li>*/}
-          </ul>
+        <div className="navbar-nav">
+          <Link className="nav-link" href="/">Home</Link>
+          <Link className="nav-link" href="/about">About</Link>
+          <Link className="nav-link" href="/posts">Posts</Link>
+          <Link className="nav-link" href="/contact">Contact</Link>
         </div>
       </div>
     </nav>

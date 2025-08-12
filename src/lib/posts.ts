@@ -6,6 +6,17 @@ import html from 'remark-html';
 
 const postsDirectory = path.join(process.cwd(), 'src/posts');
 
+export interface Post {
+    id: string;
+    slug: string;
+    title: string;
+    date: string;
+    category?: string;
+    excerpt?: string;
+    readingTime: number;
+    wordCount: number;
+}
+
 export function getSortedPostsData() {
     const fileNames = fs.readdirSync(postsDirectory);
     const allPostsData = fileNames.map(fileName => {
@@ -14,9 +25,16 @@ export function getSortedPostsData() {
         const fileContents = fs.readFileSync(fullPath, 'utf8');
         const matterResult = matter(fileContents);
 
+        // Calculate reading time (average 200 words per minute)
+        const wordCount = matterResult.content.split(/\s+/).length;
+        const readingTime = Math.ceil(wordCount / 200);
+
         return {
             id,
-            ...(matterResult.data as { date: string; title: string }),
+            slug: id,
+            readingTime,
+            wordCount,
+            ...(matterResult.data as { date: string; title: string; category?: string; excerpt?: string }),
         };
     });
 
@@ -34,6 +52,33 @@ export async function getPostData(id: string) {
     return {
         id,
         contentHtml,
-        ...(matterResult.data as { date: string; title: string }),
+        ...(matterResult.data as { date: string; title: string; category?: string; excerpt?: string }),
     };
+}
+
+export function getPostsByCategory() {
+    const allPosts = getSortedPostsData();
+    const categories: { [key: string]: any[] } = {};
+    
+    allPosts.forEach(post => {
+        const category = post.category || 'Uncategorized';
+        if (!categories[category]) {
+            categories[category] = [];
+        }
+        categories[category].push(post);
+    });
+    
+    return categories;
+}
+
+export function getAllCategories() {
+    const allPosts = getSortedPostsData();
+    const categories = new Set<string>();
+    
+    allPosts.forEach(post => {
+        const category = post.category || 'Uncategorized';
+        categories.add(category);
+    });
+    
+    return Array.from(categories).sort();
 }
