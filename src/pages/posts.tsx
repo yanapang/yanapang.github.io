@@ -72,7 +72,6 @@ export default function Posts({ postsByCategory, categories }: PostsPageProps) {
                 onChange={(e) => setSearchTerm(e.target.value)}
                 className="search-input"
               />
-              <div className="search-icon">🔍</div>
             </div>
             
             {/* Category Filter */}

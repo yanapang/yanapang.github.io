@@ -8,71 +8,49 @@ export default function Contact() {
       <NavHeader />
       
       {/* Contact Hero Section */}
-      <section className="contact-hero">
-        <div className="container mx-auto px-6 py-16 text-center">
-          <h1 className="contact-hero-title">Get In Touch</h1>
-          <p className="contact-hero-subtitle">
+      <section className="py-20">
+        <div className="container mx-auto px-6 text-center">
+          <h1 className="text-5xl font-extrabold text-gray-800">Get In Touch</h1>
+          <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
             Have a question, suggestion, or just want to say hello? I'd love to hear from you!
           </p>
         </div>
       </section>
 
       {/* Contact Content */}
-      <section className="contact-content">
-        <div className="container mx-auto px-6 py-16">
-          <div className="contact-info-centered">
-            <h2 className="contact-section-title">Let's Connect</h2>
-            <p className="contact-description">
-              I'm always interested in hearing about new opportunities, collaborations, 
-              or just having a friendly chat about technology and development.
-            </p>
+      <section className="pb-24">
+        <div className="container mx-auto px-6">
+          <div className="max-w-4xl mx-auto">
+            <h2 className="text-3xl font-bold text-center text-gray-800 mb-12">Let's Connect</h2>
             
-            <div className="contact-methods">
-              <div className="contact-method">
+            <div className="grid md:grid-cols-3 gap-8 text-center">
+              {/* Email Card */}
+              <div className="contact-card">
                 <div className="contact-icon">📧</div>
-                <div className="contact-details">
-                  <h3>Email</h3>
-                  <p>yanahwang@gmail.com</p>
-                  <span className="contact-note">Best for detailed discussions</span>
-                </div>
+                <h3 className="contact-card-title">Email</h3>
+                <a href="mailto:yanahwang@gmail.com" className="contact-card-link">yanahwang@gmail.com</a>
+                <p className="contact-card-note">Best for detailed discussions</p>
               </div>
               
-              <div className="contact-method">
+              {/* LinkedIn Card */}
+              <div className="contact-card">
                 <div className="contact-icon">💼</div>
-                <div className="contact-details">
-                  <h3>LinkedIn</h3>
-                  <p>linkedin.com/in/yanahwang</p>
-                  <span className="contact-note">Professional networking</span>
-                </div>
+                <h3 className="contact-card-title">LinkedIn</h3>
+                <a href="https://linkedin.com/in/yanahwang" target="_blank" rel="noopener noreferrer" className="contact-card-link">linkedin.com/in/yanahwang</a>
+                <p className="contact-card-note">Professional networking</p>
               </div>
               
-              <div className="contact-method">
+              {/* GitHub Card */}
+              <div className="contact-card">
                 <div className="contact-icon">🐙</div>
-                <div className="contact-details">
-                  <h3>GitHub</h3>
-                  <p>github.com/yanapang</p>
-                  <span className="contact-note">Check out my projects</span>
-                </div>
+                <h3 className="contact-card-title">GitHub</h3>
+                <a href="https://github.com/yanapang" target="_blank" rel="noopener noreferrer" className="contact-card-link">github.com/yanapang</a>
+                <p className="contact-card-note">Check out my projects</p>
               </div>
-              
-              <div className="contact-method">
-                <div className="contact-icon">🐦</div>
-                <div className="contact-details">
-                  <h3>Twitter</h3>
-                  <p>@yanapang_dev</p>
-                  <span className="contact-note">Quick updates and thoughts</span>
-                </div>
-              </div>
-            </div>
-            
-            <div className="response-time">
-              <h3>Response Time</h3>
-              <p>I typically respond within 24-48 hours. For urgent matters, please mention it in your subject line.</p>
             </div>
           </div>
         </div>
       </section>
-
       <Footer />
     </div>
   );
