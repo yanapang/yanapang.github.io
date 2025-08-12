@@ -14,19 +14,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        with:
-          persist-credentials: false
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
 
-      - name: Install and Build!
+      - name: Install and Build
         run: |
           npm install
-          npm run build 
-          npm run deploy
+          npm run build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
@@ -34,3 +31,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./out
           publish_branch: gh-pages
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'deploy: build and deploy from ${{ github.sha }}'
