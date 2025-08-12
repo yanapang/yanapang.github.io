@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { GetStaticProps } from 'next';
-import { getSortedPostsData, getPostsByCategory, getAllCategories, Post } from '../lib/posts';
+import { getPostsByCategory, getAllCategories, Post } from '../lib/posts';
 import NavHeader from '@/pages/components/NavHeader';
 import Footer from './components/Footer';
 
@@ -54,7 +54,7 @@ export default function Posts({ postsByCategory, categories }: PostsPageProps) {
         <div className="container mx-auto px-6 py-16 text-center">
           <h1 className="posts-hero-title">All Posts</h1>
           <p className="posts-hero-subtitle">
-            Explore articles organized by categories and find exactly what you're looking for
+            Explore articles organized by categories and find exactly what you&#39;re looking for
           </p>
         </div>
       </section>

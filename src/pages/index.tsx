@@ -2,7 +2,6 @@ import Link from 'next/link';
 import { GetStaticProps } from 'next';
 import { getSortedPostsData, Post } from '../lib/posts';
 import NavHeader from '@/pages/components/NavHeader';
-import SideNav from '@/pages/components/SideNav';
 import Footer from '@/pages/components/Footer';
 
 export const getStaticProps: GetStaticProps = async () => {

@@ -37,7 +37,7 @@ export default function About() {
               <h2 className="about-section-title">My Journey</h2>
               <div className="prose lg:prose-xl mx-auto mt-6 text-gray-600">
                 <p>
-                  From my first "Hello, World!" to architecting complex applications, my fascination with technology has been a constant driving force. I believe in the power of code to solve real-world problems and create meaningful connections. This blog is my space to document my learnings, share my insights, and connect with fellow tech enthusiasts. I&apos;m always exploring new technologies, refining my skills, and striving to write clean, efficient, and maintainable code. It&apos;s a journey of continuous growth, and I&apos;m excited to share it with you.
+                  From my first &quot;Hello, World!&quot; to architecting complex applications, my fascination with technology has been a constant driving force. I believe in the power of code to solve real-world problems and create meaningful connections. This blog is my space to document my learnings, share my insights, and connect with fellow tech enthusiasts. I&apos;m always exploring new technologies, refining my skills, and striving to write clean, efficient, and maintainable code. It&apos;s a journey of continuous growth, and I&apos;m excited to share it with you.
                 </p>
               </div>
             </div>
