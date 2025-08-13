@@ -6,7 +6,7 @@ export default function Contact() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-orange-50 to-red-100">
       <NavHeader />
-      
+
       {/* Contact Hero Section */}
       <section className="py-20">
         <div className="container mx-auto px-6 text-center">
@@ -22,16 +22,9 @@ export default function Contact() {
         <div className="container mx-auto px-6">
           <div className="max-w-4xl mx-auto">
             <h2 className="text-3xl font-bold text-center text-gray-800 mb-12">Let&apos;s Connect</h2>
-            
+
             <div className="grid md:grid-cols-3 gap-8 text-center">
-              {/* Email Card */}
-              <div className="contact-card">
-                <div className="contact-icon">📧</div>
-                <h3 className="contact-card-title">Email</h3>
-                <a href="mailto:yanahwang@gmail.com" className="contact-card-link">yanahwang@gmail.com</a>
-                <p className="contact-card-note">Best for detailed discussions</p>
-              </div>
-              
+
               {/* LinkedIn Card */}
               <div className="contact-card">
                 <div className="contact-icon">💼</div>
@@ -39,7 +32,7 @@ export default function Contact() {
                 <a href="https://linkedin.com/in/yanahwang" target="_blank" rel="noopener noreferrer" className="contact-card-link">linkedin.com/in/yanahwang</a>
                 <p className="contact-card-note">Professional networking</p>
               </div>
-              
+
               {/* GitHub Card */}
               <div className="contact-card">
                 <div className="contact-icon">🐙</div>
