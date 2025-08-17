@@ -13,7 +13,7 @@ interface PostsPageProps {
 export const getStaticProps: GetStaticProps = async () => {
   const postsByCategory = getPostsByCategory();
   const categories = getAllCategories();
-  
+
   return {
     props: {
       postsByCategory,
@@ -28,18 +28,18 @@ export default function Posts({ postsByCategory, categories }: PostsPageProps) {
 
   // Get all posts for "All" category
   const allPosts = Object.values(postsByCategory).flat();
-  
+
   // Filter posts based on selected category and search term
   const getFilteredPosts = () => {
     let posts = selectedCategory === 'All' ? allPosts : postsByCategory[selectedCategory] || [];
-    
+
     if (searchTerm) {
-      posts = posts.filter(post => 
+      posts = posts.filter(post =>
         post.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        (post.excerpt && post.excerpt.toLowerCase().includes(searchTerm.toLowerCase()))
+        (post.excerpt && post.excerpt.toLowerCase().includes(searchTerm.toLowerCase())),
       );
     }
-    
+
     return posts;
   };
 
@@ -48,10 +48,10 @@ export default function Posts({ postsByCategory, categories }: PostsPageProps) {
   return (
     <div className="min-h-screen bg-gradient-to-br from-green-50 to-blue-100">
       <NavHeader />
-      
+
       {/* Posts Hero Section */}
       <section className="posts-hero">
-        <div className="container mx-auto px-6 py-16 text-center">
+        <div className="container mx-auto px-5 pt-5 text-center">
           <h1 className="posts-hero-title">All Posts</h1>
           <p className="posts-hero-subtitle">
             Explore articles organized by categories and find exactly what you&#39;re looking for
@@ -61,7 +61,7 @@ export default function Posts({ postsByCategory, categories }: PostsPageProps) {
 
       {/* Filter and Search Section */}
       <section className="filter-section">
-        <div className="container mx-auto px-6 py-8">
+        <div className="container mx-auto px-1">
           <div className="filter-controls">
             {/* Search Bar */}
             <div className="search-container">
@@ -73,7 +73,7 @@ export default function Posts({ postsByCategory, categories }: PostsPageProps) {
                 className="search-input"
               />
             </div>
-            
+
             {/* Category Filter */}
             <div className="category-filters">
               <button
@@ -98,7 +98,7 @@ export default function Posts({ postsByCategory, categories }: PostsPageProps) {
 
       {/* Posts Grid Section */}
       <section className="posts-grid-section">
-        <div className="container mx-auto px-6 py-8">
+        <div className="container mx-auto px-5 pb-5">
           {filteredPosts.length > 0 ? (
             <>
               <div className="posts-count">
@@ -108,7 +108,7 @@ export default function Posts({ postsByCategory, categories }: PostsPageProps) {
                   {searchTerm && ` matching "${searchTerm}"`}
                 </p>
               </div>
-              
+
               <div className="posts-grid">
                 {filteredPosts.map((post) => (
                   <article key={post.slug} className="post-card">
@@ -122,10 +122,10 @@ export default function Posts({ postsByCategory, categories }: PostsPageProps) {
                         </Link>
                       </h3>
                       <p className="post-date">
-                        {new Date(post.date).toLocaleDateString('en-US', { 
-                          year: 'numeric', 
-                          month: 'long', 
-                          day: 'numeric' 
+                        {new Date(post.date).toLocaleDateString('en-US', {
+                          year: 'numeric',
+                          month: 'long',
+                          day: 'numeric',
                         })}
                       </p>
                       <p className="post-excerpt">
@@ -143,9 +143,9 @@ export default function Posts({ postsByCategory, categories }: PostsPageProps) {
             <div className="no-posts">
               <h3>No posts found</h3>
               <p>
-                {searchTerm 
+                {searchTerm
                   ? `No posts match your search "${searchTerm}"`
-                  : selectedCategory !== 'All' 
+                  : selectedCategory !== 'All'
                     ? `No posts in "${selectedCategory}" category yet`
                     : 'No posts available yet. Check back soon!'
                 }

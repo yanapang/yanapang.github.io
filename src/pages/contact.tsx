@@ -8,8 +8,8 @@ export default function Contact() {
       <NavHeader />
 
       {/* Contact Hero Section */}
-      <section className="py-20">
-        <div className="container mx-auto px-6 text-center">
+      <section className="py-5">
+        <div className="container mx-auto px-4 text-center">
           <h1 className="text-5xl font-extrabold text-gray-800">Get In Touch</h1>
           <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
             Have a question, suggestion, or just want to say hello? I&apos;d love to hear from you!
@@ -18,13 +18,12 @@ export default function Contact() {
       </section>
 
       {/* Contact Content */}
-      <section className="pb-24">
-        <div className="container mx-auto px-6">
+      <section className="pb-5">
+        <div className="container mx-auto">
           <div className="max-w-4xl mx-auto">
             <h2 className="text-3xl font-bold text-center text-gray-800 mb-12">Let&apos;s Connect</h2>
 
             <div className="grid md:grid-cols-3 gap-8 text-center">
-
               {/* LinkedIn Card */}
               <div className="contact-card">
                 <div className="contact-icon">💼</div>

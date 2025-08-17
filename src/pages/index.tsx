@@ -17,10 +17,10 @@ export default function Home({ allPostsData }: { allPostsData: Post[] }) {
   return (
     <div className="min-h-screen flex flex-col">
       <NavHeader />
-      
+
       {/* Hero Section */}
       <section className="hero-section">
-        <div className="container mx-auto px-6 py-16 text-center">
+        <div className="container mx-auto px-6 py-5 text-center">
           <h1 className="hero-title">Welcome to Yana&apos;s Blog</h1>
           <p className="hero-subtitle">Thoughts, experiences, and insights from a developer&apos;s journey</p>
           <div className="hero-buttons">
@@ -36,7 +36,7 @@ export default function Home({ allPostsData }: { allPostsData: Post[] }) {
         <section className="section">
           <div className="container">
             <h2 className="section-title">Latest Posts</h2>
-            
+
             {allPostsData.length > 0 ? (
               <div className="posts-grid">
                 {allPostsData.map(({ id, date, title, category, excerpt, readingTime }) => (

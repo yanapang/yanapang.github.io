@@ -24,7 +24,7 @@ export default function Post({ postData }: any) {
         <div className="col-2">
           <SideNav />
         </div>
-        <div className="col-8">
+        <div className="col-8 py-5">
           <h1 className="text-2xl font-bold">{postData.title}</h1>
           <div className="text-sm text-gray-500 mb-4">{postData.date}</div>
           <article dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
