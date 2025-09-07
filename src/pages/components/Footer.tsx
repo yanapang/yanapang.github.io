@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa';
 
 export default function Footer() {
   return (
@@ -22,13 +23,13 @@ export default function Footer() {
             <h4>Connect with Me</h4>
             <div className="social-icons">
               <a href="https://github.com/yanapang" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-                {/* Add GitHub Icon Here */}
+                <FaGithub />
               </a>
-              <a href="https://linkedin.com/in/yanapang" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-                {/* Add LinkedIn Icon Here */}
+              <a href="https://www.linkedin.com/in/yanahwang/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                <FaLinkedin />
               </a>
-              <a href="mailto:yana@example.com" aria-label="Email">
-                {/* Add Email Icon Here */}
+              <a href="mailto:yanahwang@gmail.com" aria-label="Email">
+                <FaEnvelope />
               </a>
             </div>
           </div>
