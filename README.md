@@ -1,4 +1,4 @@
-# Yana's Personal Blog
+[![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Backscreen_Yana&section=header&textBg=false&animation=fadeIn)]()
 
 Welcome to the repository for my personal blog, a modern and beautifully designed space where I share my thoughts on technology, development, and more. This project is built with Next.js and TypeScript, and it's styled with Tailwind CSS for a clean, responsive, and visually appealing user experience.
 
