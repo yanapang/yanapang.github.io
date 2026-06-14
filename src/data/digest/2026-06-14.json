@@ -1,41 +1,55 @@
 {
   "date": "2026-06-14",
-  "generatedAt": "2026-06-14T15:31:51.785985+09:00",
+  "generatedAt": "2026-06-14T15:38:33.613256+09:00",
   "articles": [
     {
-      "source": "Hacker News",
-      "title": "Every Frame Perfect",
-      "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "published": "2026-06-13",
-      "summary": ""
+      "source": "네이버 D2",
+      "title": "MLXP : Kubernetes LLM Serving 최적화 기술 도입기",
+      "url": "https://d2.naver.com/helloworld/1059238",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 LLM 추론 성능을 극대화하기 위한 최신 기술들(KV Cache 인지 라우팅, Prefix Cache, 분산 멀티노드 서빙 등)을 Kubernetes 프로덕션 환경에 도입하는 과정에서 기존 인프라 스택(Istio 서비스 메시, 스케줄러, Pod 보호 정책)과 충돌하며 발생한 실전 문제들을 어떻게 진단하고 해결했는지 공유합니다. 발표 대상 Kubernetes 위에서 GPU 워크로드를 운영하는 플랫폼…"
     },
     {
-      "source": "Hacker News",
-      "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
-      "url": "https://sqltoerdiagram.com/",
-      "published": "2026-06-14",
-      "summary": ""
+      "source": "네이버 D2",
+      "title": "Android 앱의 의도치 않은 변경 방지하기",
+      "url": "https://d2.naver.com/helloworld/3431313",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 Android 앱 및 라이브러리 개발자가 외부 라이브러리 업데이트 시 발생하는 의도치 않은 변경을 사전에 감지하고, Baseline 기반의 방어 체계를 구축하는 방법을 소개합니다. 발표 대상 의존성 추적과 AndroidManifest에 관심 있는 Android 개발자 목차 배경 Manifest Shield 내부동작 AI로 만들기 ◎ NAVER Engineering Day란? NAVER에서는 사내 개발…"
     },
     {
-      "source": "Hacker News",
-      "title": "Building a serial and VGA \"everything console\"",
-      "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-      "published": "2026-06-14",
-      "summary": ""
+      "source": "네이버 D2",
+      "title": "안드로이드 빌드 대기 시간 없애기",
+      "url": "https://d2.naver.com/helloworld/4372269",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 사내 Pod 오케스트레이션 툴인 N3R과 GitHub ARC를 결합하여, 리소스 소모가 큰 안드로이드 빌드 환경을 동적으로 할당하고 CI/CD 병목 현상을 해결한 시스템 개발 경험을 공유합니다. 발표 대상 사내망 / outbound 차단 / 권한 제약 환경에서 GitHub Actions Self-hosted Runner 를 운영하는 분 Gradle 빌드 캐시 · 멀티 모듈 최적화에 관심 있는 안드로이드…"
     },
     {
-      "source": "Hacker News",
-      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-      "published": "2026-06-13",
-      "summary": ""
+      "source": "네이버 D2",
+      "title": "AI국민비서: 공공 특화 에이전트 구축하기",
+      "url": "https://d2.naver.com/helloworld/6647064",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI국민비서 에이전트 개발 과정에서 겪었던 lesson learn과 노하우를 공유합니다. 발표 대상 공공서비스 접근성 개선에 관심이 있으신 분 네이버 HyperClovaX 모델과 에이전트 개발에 관심이 있으신분 목차 프로젝트 개요 모델 선택 문제의 난이도를 낮추기 속도 최적화 Safety 대응 평가 / QA 체계 경쟁사 대비 차별점 ◎ NAVER Engineering Day란? NAVER에서는 사내…"
     },
     {
-      "source": "Hacker News",
-      "title": "Python 3.14 garbage collection rigamarole",
-      "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
+      "source": "네이버 D2",
+      "title": "FE News 26년 6월 소식을 전해드립니다.",
+      "url": "https://d2.naver.com/news/7161766",
+      "published": "",
+      "summary": "주요소식 26년 6월 소식에서는 다음과 같은 유용한 정보들을 만나보실 수 있습니다. State of AI 2026 Devographics의 연례 AI 개발자 설문 결과. TypeScript가 처음으로 JavaScript 사용률을 앞질렀고, 개발자가 작성하는 코드 중 AI 생성 비중이 평균 54%로 급증했다. Claude Code가 유료 전환율과 만족도 1위를 기록했으며, 코딩 에이전트 사용률은 GitHub Copilot(67.9%), Claude Code(62.9%) 순으로 나타났다. AI 도입에 대한 기대와 함께 \"AI 의존으로…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
       "published": "2026-06-12",
       "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "published": "2026-06-12",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
     }
   ]
 }
