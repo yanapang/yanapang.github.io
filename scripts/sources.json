@@ -1,26 +1,22 @@
 [
   {
-    "name": "Hacker News",
-    "rss": "https://news.ycombinator.com/rss"
+    "name": "토스 기술 블로그",
+    "rss": "https://toss.tech/rss.xml"
   },
   {
-    "name": "Kubernetes Blog",
-    "rss": "https://kubernetes.io/feed.xml"
-  },
-  {
-    "name": "Netflix Tech Blog",
-    "rss": "https://netflixtechblog.com/feed"
+    "name": "네이버 D2",
+    "rss": "https://d2.naver.com/d2.atom"
   },
   {
     "name": "카카오 기술 블로그",
     "rss": "https://tech.kakao.com/feed/"
   },
   {
-    "name": "우아한형제들 기술 블로그",
-    "rss": "https://techblog.woowahan.com/feed/"
+    "name": "Hugging Face Blog",
+    "rss": "https://huggingface.co/blog/feed.xml"
   },
   {
-    "name": "LINE Engineering",
-    "rss": "https://engineering.linecorp.com/ko/feed"
+    "name": "OpenAI Blog",
+    "rss": "https://openai.com/blog/rss.xml"
   }
 ]
