@@ -22,7 +22,7 @@ export default function About() {
             <h1 className="about-hero-title">Hi, I&apos;m Yana</h1>
             <p className="about-hero-subtitle">
               A passionate developer on a journey to build beautiful, functional, and user-centric web experiences.
-            </p>y
+            </p>
           </div>
         </div>
       </section>
