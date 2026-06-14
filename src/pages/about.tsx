@@ -13,7 +13,7 @@ export default function About() {
         <div className="container mx-auto">
           <div className="max-w-4xl mx-auto">
             <Image
-              src="/profile-picture.jpg" // Placeholder: Add your image to the /public folder
+              src="https://avatars.githubusercontent.com/u/46346904?v=4"
               alt="Yana&apos;s Profile Picture"
               width={150}
               height={150}
