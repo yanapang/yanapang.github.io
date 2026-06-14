@@ -718,3 +718,222 @@ a {
     color: var(--gray-500);
     margin-top: 1rem;
 }
+
+/* ============================================
+   DIGEST PAGE
+   ============================================ */
+
+.digest-hero {
+    background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 50%, #0f2942 100%);
+    color: white;
+    position: relative;
+    overflow: hidden;
+}
+
+.digest-hero-title {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 0.75rem;
+    letter-spacing: -0.02em;
+}
+
+.digest-hero-subtitle {
+    font-size: 1.1rem;
+    opacity: 0.8;
+    font-weight: 300;
+}
+
+.digest-section {
+    margin-bottom: 3rem;
+}
+
+.digest-date-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--gray-100);
+}
+
+.digest-badge {
+    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    color: white;
+    padding: 0.2rem 0.75rem;
+    border-radius: 50px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.digest-date-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--gray-900);
+}
+
+.digest-count {
+    font-size: 0.875rem;
+    color: var(--gray-600);
+    margin-left: auto;
+}
+
+.digest-source-group {
+    margin-bottom: 2.5rem;
+}
+
+.digest-source-name {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--primary);
+    margin-bottom: 1rem;
+    padding-left: 0.75rem;
+    border-left: 3px solid var(--primary);
+}
+
+.digest-article-card {
+    background: var(--gray-50);
+    border: 1px solid var(--gray-200);
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 0.75rem;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.digest-article-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    transform: translateY(-1px);
+}
+
+.digest-article-title {
+    display: block;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--gray-900);
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+}
+
+.digest-article-title:hover {
+    color: var(--primary);
+}
+
+.digest-external-icon {
+    display: inline-block;
+    margin-left: 0.35rem;
+    font-size: 0.8rem;
+    opacity: 0.5;
+    vertical-align: middle;
+}
+
+.digest-article-summary {
+    font-size: 0.9rem;
+    color: var(--gray-600);
+    line-height: 1.7;
+    margin-bottom: 0.5rem;
+}
+
+.digest-article-date {
+    font-size: 0.78rem;
+    color: var(--gray-300);
+}
+
+.digest-empty {
+    color: var(--gray-600);
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.digest-empty-state {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--gray-600);
+    background: var(--gray-50);
+    border-radius: 16px;
+    border: 2px dashed var(--gray-200);
+}
+
+.digest-archive {
+    border-top: 1px solid var(--gray-200);
+    padding-top: 2rem;
+    margin-top: 2rem;
+}
+
+.digest-archive-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--gray-800);
+    margin-bottom: 1rem;
+}
+
+.digest-archive-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.digest-archive-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--gray-200);
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--gray-700);
+    font-size: 0.9rem;
+    transition: all 0.15s ease;
+}
+
+.digest-archive-item:hover {
+    background: var(--gray-50);
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.digest-archive-arrow {
+    opacity: 0.4;
+    font-size: 0.85rem;
+}
+
+.digest-back-nav {
+    margin-bottom: 1.5rem;
+}
+
+.digest-back-link {
+    font-size: 0.875rem;
+    color: var(--gray-600);
+    text-decoration: none;
+    transition: color 0.15s ease;
+}
+
+.digest-back-link:hover {
+    color: var(--primary);
+}
+
+.digest-pagination {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--gray-200);
+}
+
+.digest-page-btn {
+    font-size: 0.875rem;
+    color: var(--primary);
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--gray-200);
+    border-radius: 8px;
+    transition: all 0.15s ease;
+}
+
+.digest-page-btn:hover {
+    background: var(--gray-50);
+    border-color: var(--primary);
+}

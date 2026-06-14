@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Hacker News",
+    "rss": "https://news.ycombinator.com/rss"
+  },
+  {
+    "name": "Kubernetes Blog",
+    "rss": "https://kubernetes.io/feed.xml"
+  },
+  {
+    "name": "Netflix Tech Blog",
+    "rss": "https://netflixtechblog.com/feed"
+  },
+  {
+    "name": "카카오 기술 블로그",
+    "rss": "https://tech.kakao.com/feed/"
+  },
+  {
+    "name": "우아한형제들 기술 블로그",
+    "rss": "https://techblog.woowahan.com/feed/"
+  },
+  {
+    "name": "LINE Engineering",
+    "rss": "https://engineering.linecorp.com/ko/feed"
+  }
+]
