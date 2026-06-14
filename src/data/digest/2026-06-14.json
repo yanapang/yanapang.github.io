@@ -1,41 +1,41 @@
 {
   "date": "2026-06-14",
-  "generatedAt": "2026-06-14T15:20:06.657305+09:00",
+  "generatedAt": "2026-06-14T15:31:51.785985+09:00",
   "articles": [
     {
       "source": "Hacker News",
-      "title": "Honda Civics and the Evil Valet",
-      "url": "https://juniperspring.org/posts/honda-evil-valet/",
-      "published": "2026-06-14",
-      "summary": "Comments"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tribblix: The retro Illumos distribution",
-      "url": "http://tribblix.org/",
-      "published": "2026-06-14",
-      "summary": "Comments"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Pac-Man, but you're the ghost",
-      "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-      "published": "2026-06-14",
-      "summary": "Comments"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "url": "https://desfontain.es/blog/banning-noise.html",
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
       "published": "2026-06-13",
-      "summary": "Comments"
+      "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "GLM 5.2 Is Out",
-      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+      "url": "https://sqltoerdiagram.com/",
+      "published": "2026-06-14",
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Building a serial and VGA \"everything console\"",
+      "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+      "published": "2026-06-14",
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
       "published": "2026-06-13",
-      "summary": "Comments"
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Python 3.14 garbage collection rigamarole",
+      "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
+      "published": "2026-06-12",
+      "summary": ""
     }
   ]
 }
