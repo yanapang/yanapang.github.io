@@ -11,6 +11,7 @@ export default function NavHeader() {
           <Link className="nav-link" href="/">Home</Link>
           <Link className="nav-link" href="/about">About</Link>
           <Link className="nav-link" href="/posts">Posts</Link>
+          <Link className="nav-link" href="/digest">Digest</Link>
           <Link className="nav-link" href="/contact">Contact</Link>
         </div>
       </div>

@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-14",
+  "generatedAt": "2026-06-14T15:20:06.657305+09:00",
+  "articles": [
+    {
+      "source": "Hacker News",
+      "title": "Honda Civics and the Evil Valet",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "published": "2026-06-14",
+      "summary": "Comments"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tribblix: The retro Illumos distribution",
+      "url": "http://tribblix.org/",
+      "published": "2026-06-14",
+      "summary": "Comments"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pac-Man, but you're the ghost",
+      "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+      "published": "2026-06-14",
+      "summary": "Comments"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "published": "2026-06-13",
+      "summary": "Comments"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "published": "2026-06-13",
+      "summary": "Comments"
+    }
+  ]
+}
