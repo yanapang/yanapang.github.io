@@ -15,7 +15,7 @@ Welcome to the repository for my personal blog, a modern and beautifully designe
 
 ## 🛠️ Tech Stack
 
-- **Framework**: [Next.js](https://nextjs.org/) 13 with the App Router
+- **Framework**: [Next.js](https://nextjs.org/) 15 with the Pages Router
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Markdown Processing**: [gray-matter](https://github.com/jonschlinkert/gray-matter) and [remark](https://github.com/remarkjs/remark)
@@ -50,6 +50,22 @@ Make sure you have Node.js and npm installed on your machine.
    ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## ✍️ Writing a New Post
+
+1. `src/posts/` 폴더에 `your-post-slug.md` 파일 생성
+2. 파일 상단에 frontmatter 작성:
+   ```yaml
+   ---
+   title: "포스트 제목"
+   slug: 'your-post-slug'
+   date: "2025-06-14"
+   category: "Kubernetes"
+   description: "검색 결과와 카드에 표시될 한 줄 설명"
+   ---
+   ```
+3. 그 아래에 마크다운으로 본문 작성
+4. `main` 브랜치에 푸시하면 자동 배포
 
 ## 🚢 Deployment
 

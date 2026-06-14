@@ -47,15 +47,15 @@ export default function About() {
               <h2 className="about-section-title">My Skills</h2>
               <div className="skills-grid mt-5">
                 <div className="skill-item"><span>📘</span> TypeScript</div>
-                <div className="skill-item"><span>⚛️</span> Vue3</div>
-                <div className="skill-item"><span>🟢</span> Java</div>
-                <div className="skill-item"><span>🐍</span> Spring Boot</div>
+                <div className="skill-item"><span>💚</span> Vue3</div>
+                <div className="skill-item"><span>☕</span> Java</div>
+                <div className="skill-item"><span>🌱</span> Spring Boot</div>
                 <div className="skill-item"><span>🗃️</span> MariaDB</div>
                 <div className="skill-item"><span>🐳</span> Docker</div>
-                <div className="skill-item"><span>🎨</span> Kubernetes</div>
-                <div className="skill-item"><span>🏃‍♂️</span> Helm Chart</div>
-                <div className="skill-item"><span>🏃‍♂️</span> Git</div>
-                <div className="skill-item"><span>🏃‍♂️</span> Atlassian</div>
+                <div className="skill-item"><span>☸️</span> Kubernetes</div>
+                <div className="skill-item"><span>⛵</span> Helm Chart</div>
+                <div className="skill-item"><span>🔀</span> Git</div>
+                <div className="skill-item"><span>🔷</span> Atlassian</div>
               </div>
             </div>
 

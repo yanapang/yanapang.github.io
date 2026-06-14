@@ -3,6 +3,7 @@ title: "[Kubernetes] 무중단 배포 전략"
 slug: 'deploy-strategy'
 date: "2025-05-19"
 category: "Kubernetes"
+description: "Rolling, Blue-Green, Canary 세 가지 무중단 배포 전략의 특징과 장단점을 비교합니다."
 ---
 
 서비스를 만들고 나면, 서비스를 사용자들에게 제공하기 위해 배포라는 단계를 거쳐야한다.  

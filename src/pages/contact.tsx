@@ -39,6 +39,14 @@ export default function Contact() {
                 <a href="https://github.com/yanapang" target="_blank" rel="noopener noreferrer" className="contact-card-link">github.com/yanapang</a>
                 <p className="contact-card-note">Check out my projects</p>
               </div>
+
+              {/* Email Card */}
+              <div className="contact-card">
+                <div className="contact-icon">✉️</div>
+                <h3 className="contact-card-title">Email</h3>
+                <a href="mailto:yanahwang@gmail.com" className="contact-card-link">yanahwang@gmail.com</a>
+                <p className="contact-card-note">Feel free to reach out</p>
+              </div>
             </div>
           </div>
         </div>
