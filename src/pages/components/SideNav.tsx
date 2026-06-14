@@ -1,5 +1,3 @@
-import Link from 'next/link';
-
 export default function SideNav() {
   return (
     <ul className="nav flex-column">
