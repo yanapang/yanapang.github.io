@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-16",
+  "generatedAt": "2026-06-16T08:29:00.318418+09:00",
+  "articles": [
+    {
+      "source": "네이버 D2",
+      "title": "AI 에이전트를 위한 Playwright E2E 테스트 하네스 구축하기",
+      "url": "https://d2.naver.com/helloworld/6811215",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI 에이전트가 코드를 짜는 시대, 우리는 그 코드를 어떻게 믿을 수 있을까요? Playwright 기반 E2E 테스트를 구축하고, 에이전트가 직접 테스트 코드를 작성 및 검증하는 워크플로우를 만든 여정을 공유합니다. 발표 대상 특히 이런 분들에게 추천 드립니다. \"에이전트로 '딸깍'할 수 있는 대규모 코드베이스를 만들고 싶어요\" \"E2E 테스트, 어디서부터 시작해야 할지 모르겠어요\" \"테스트 짜본 적…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "비개발자의 AI 협업 도전기 — 생산성 측정하려다 서버까지 띄운 9일",
+      "url": "https://d2.naver.com/helloworld/2017402",
+      "published": "",
+      "summary": "\"조직이 잘하고 있는지 어떻게 알 수 있을까?\" 이 질문에서 출발해 사내 가이드 문서와 AI를 붙들고 직접 측정 도구를 완성하기까지 9일이 걸렸습니다. 그 과정을 기록으로 남깁니다. 사내 생산성 측정에 관한 고민 기술 PM으로 일하면서 조직과 프로젝트의 생산성을 어떻게 측정할지는 늘 풀리지 않는 과제였습니다. 스프린트를 원활하게 진행하는 것 같아도 막상 이를 수치로 보여달라고 하면 난감했습니다. 속도가 빨라지는지, 병목이 어디서 발생하는지, 지난 분기보다 나아지고 있는지 감각적으로는 알 수 있었지만 데이터로 명확히 설명하기는…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "네이버 검색의 대규모 메트릭 저장소, VictoriaMetrics 운영기",
+      "url": "https://d2.naver.com/helloworld/6475419",
+      "published": "",
+      "summary": "12.5억 개의 시계열과 555조 개의 데이터포인트를 다루는 VictoriaMetrics 아키텍처와 무중단 장비 전환 네이버 검색 서비스를 안정적으로 운영하려면, 수만 대의 물리 서버와 수백만 개의 컨테이너에서 발생하는 메트릭을 실시간으로 수집·저장·조회할 수 있는 대규모 시계열 데이터베이스(TSDB)가 필요합니다. 저희 팀은 이 요구사항을 충족하기 위해 오픈소스 TSDB인 VictoriaMetrics 를 선택했습니다. VictoriaMetrics는 Prometheus 호환 API를 제공하면서도 높은 압축 효율과 대규모…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "NAVER SECURITY SEMINAR 참가 신청을 시작합니다!",
+      "url": "https://d2.naver.com/news/6236639",
+      "published": "",
+      "summary": "NAVER SECURITY SEMINAR 참가 신청이 시작되었습니다. 4월 30일(목), 네이버 그린팩토리에서 열리는 이번 세미나는 팀 네이버 보안팀이 직접 현장의 고민과 경험을 나누는 자리입니다. 보안 기술, LLM 시대의 AI 레드팀, 피싱 트렌드까지 — 실무에서 활용할 수 있는 인사이트를 만나보세요! 행사 개요 ※ 발표 세션 제목은 변경될 수 있으며, 최종 프로그램은 선정된 참석자에 한해 별도 안내드리겠습니다. 일시 4월 30일(목) 오후 1시 30분 - 6시 30분 장소 네이버 그린팩토리 ( 지도보기 ) 참가 대상 IT…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "[사전 안내] 첫 번째 'NAVER SECURITY SEMINAR'가 열립니다.",
+      "url": "https://d2.naver.com/news/2009415",
+      "published": "",
+      "summary": "네이버는 수많은 사용자가 매일 신뢰하며 이용하는 서비스를 운영합니다. 그 신뢰의 근간에는 보안이 있습니다. 끊임없이 진화하는 위협 환경 속에서 네이버 보안 조직이 어떤 고민을 하고, 어떻게 대응하는지 그 경험과 인사이트를 나누는 첫 번째 자리를 마련했습니다. 네이버의 보안을 지키기 위한 활동중 하나로 매년 참여자들을 대상으로 개최해온 네이버 Security 의 버그바운티 프로그램 이 있습니다. 그간 온라인으로 진행되어 온 시상식을 올해에는 오프라인으로 NAVER SECURITY SEMINAR에서도 함께 축하하고자 합니다. IT…"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "published": "2026-06-14",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
+    }
+  ]
+}
