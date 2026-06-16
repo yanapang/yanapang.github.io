@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-17",
+  "generatedAt": "2026-06-17T08:17:55.510522+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "디자이너가 시안 대신 앱을 만든 이유",
+      "url": "https://toss.tech/article/deadend",
+      "published": "2026-06-16",
+      "summary": "툴의 제약을 넘어, 머릿속에 있던 디자인을 AI로 그대로 구현해본 이야기를 들려드립니다."
+    },
+    {
+      "source": "토스 기술 블로그",
+      "title": "2,800만 MAU를 이해하는 유저 Segmentation, TUES",
+      "url": "https://toss.tech/article/tues",
+      "published": "2026-06-16",
+      "summary": "토스가 자체 개발한 이용서비스 기반 유저 세그먼트 TUES(Toss User Engagement Segment)를 활용해 2,800만 MAU를 어떻게 분석하고 의사결정에 녹이는지 소개합니다."
+    },
+    {
+      "source": "네이버 D2",
+      "title": "SaaS 대체하기: AI와 함께한 광고SDK 에러 모니터링 시스템 구축기",
+      "url": "https://d2.naver.com/helloworld/8319114",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 서드파티 SDK 환경에서 범용 에러 모니터링 도구 연동 시 발생하는 구조적 한계를 극복하기 위해, AI Agent를 활용해 전용 Javascript 에러 모니터링 시스템을 직접 구축한 경험과 그 가능성을 공유합니다. 발표 대상 외부 SaaS 도구의 한계를 경험해본 개발자 프론트엔드/SDK 에러 모니터링에 관심 있는 개발자 AI Agent를 활용한 개발 생산성 향상에 관심 있는 개발자 사내 인프라를…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "FE News 26년 4월 소식을 전해드립니다!",
+      "url": "https://d2.naver.com/news/6428522",
+      "published": "",
+      "summary": "주요소식 Temporal: The 9-Year Journey to Fix Time in JavaScript JavaScript의 Date 객체를 대체하는 Temporal API가 9년간의 표준화 과정을 거쳐 TC39 Stage 4에 도달하고 ES2026에 포함될 예정이다. 불변(immutable) 값, ZonedDateTime·Instant 등 다양한 타입, 명시적 타임존 지원, 나노초 정밀도, 다중 캘린더 지원 등을 제공한다. 현재 Firefox 139+, Chrome/Edge 144+, TypeScript 6.0 Beta,…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "C++ 객체 수명과 암묵적 객체 생성",
+      "url": "https://d2.naver.com/helloworld/7997284",
+      "published": "",
+      "summary": "이전 글 에서는 엄격한 앨리어싱 규칙의 관점에서 reinterpret_cast 를 안전하게 사용하는 방법을 알아보았습니다. 이번 글에서는 한 걸음 더 나아가, 디스크나 네트워크에서 읽어 온 바이트 표현을 특정 타입으로 해석할 때 reinterpret_cast 를 사용하는 패턴을 C++의 엄격한 표준에 비추어 살펴보겠습니다. 결론부터 말씀드리면, 이런 패턴의 상당수는 엄밀히 따지면 미정의 동작(UB, undefined behavior)에 해당합니다. 예를 들어 malloc() 으로 할당받은 메모리를 구조체 포인터로 캐스팅해 곧바로…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "C++ std::bit_cast와 reinterpret_cast — 언제 어떤 것을 써야 하는가",
+      "url": "https://d2.naver.com/helloworld/1155434",
+      "published": "",
+      "summary": "저희 팀은 네이버의 고성능 검색 엔진 기술을 계승한 분산 데이터베이스인 Dot을 개발하고 있습니다. 스토리지 계층을 직접 다루다 보니 디스크에서 읽어 온 바이트 패턴을 uint64_t , float , 혹은 사용자 정의 구조체로 해석하는 일이 일상이고, 코드 리뷰에서 reinterpret_cast 를 마주치는 일도 잦습니다. 볼 때마다 느끼는 불안함, 즉 '이것은 되도록 쓰지 말라고 배웠는데 괜찮을까?' 하는 감정은 C++ 개발자라면 공감하실 것입니다. C++20에서 등장한 std::bit_cast 는 그 불안에 대한 해답처럼…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "FE News 26년 3월 소식을 전해드립니다!",
+      "url": "https://d2.naver.com/news/0407747",
+      "published": "",
+      "summary": "주요소식 React Foundation React 생태계를 지속 가능하게 유지하고 발전시키기 위한 커뮤니티 주도 재단이다. \"Building the future of React, together\"라는 슬로건 아래, 코드 기여, 커뮤니티 조직화, 교육 콘텐츠 제작, 지속 가능한 자금 조달을 통해 수백만 개발자가 의존하는 도구의 유지보수자들을 지원하는 것을 목표로 한다. CSS Day 2025 CSS Day 2025 컨퍼런스의 발표 영상 모음 플레이리스트다. CSS의 철학부터 새로운 HTML UI 기능 스타일링, 폼 컨트롤 스타일링,…"
+    },
+    {
+      "source": "카카오 기술 블로그",
+      "title": "AI 에이전트로 카카오톡 추천 지표 분석 자동화하기",
+      "url": "https://tech.kakao.com/posts/824",
+      "published": "2026-06-15",
+      "summary": "AI 에이전트로 카카오톡 추천 지표 분석 자동화하기: Hadoop 기반 도입 사례 안녕하세요. 소셜추천엔진팀에서 숏폼 추천 모델을 개발하고 있는 루퍼트(rupert)입니다. 추천 시스템을 개발하다 보면 코드를 짜는 시간만큼이나 데이터를 들여다보는 시간이 길어집니다. 지표가 조금만 움직여도 “이번 주 CTR이 왜 떨어졌지?”, “실험군 반응은 어땠지?”, “배포 이후 특정 사용자군에서 달라진 점은 없을까?” 같은 질문이 이어집니다. 질문은 한 문장이지만,..."
+    },
+    {
+      "source": "카카오 기술 블로그",
+      "title": "Vibe Coding하는 비개발자는 개발자인가(3)",
+      "url": "https://tech.kakao.com/posts/823",
+      "published": "2026-06-15",
+      "summary": "2편을 쓴 뒤 시간이 꽤 지났습니다. 그 사이 AI 도구들은 더 많은 일을 하게 되었고, 저도 이전보다 훨씬 자주 AI 에이전트와 함께 일하게 되었습니다. 처음에는 업무에 실제적으로 도움을 주는 도구를 직접 만드는 일이 신났습니다. 개선하고 싶은 기능을 설명하면 화면이 생기고, 입력값을 넣으면 일정하게 필요한 결과가 나왔습니다. 이렇게 만든 도구들을 실제 업무에 계속쓰다 보니, 관심사가 자연스럽게 다음 단계로 넘어갔습니다. 혼자 쓰던 도구를 다른 사람에..."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "published": "2026-06-16",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
+    }
+  ]
+}
