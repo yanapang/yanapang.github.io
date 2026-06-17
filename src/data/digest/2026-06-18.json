@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-18",
+  "generatedAt": "2026-06-18T08:16:53.550984+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "AI로 바꾼 제품 설계의 순서",
+      "url": "https://toss.tech/article/chatbot",
+      "published": "2026-06-17",
+      "summary": "고객센터 챗봇을 만들면서, 좋은 사용자 경험을 먼저 만들고 필요한 것들을 역산해나간 과정을 소개할게요."
+    },
+    {
+      "source": "네이버 D2",
+      "title": "도구에서 동료로 — AI 에이전트 자율 성장 프레임워크",
+      "url": "https://d2.naver.com/helloworld/4399330",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 매 세션 초기화되는 AI의 한계를 넘어, 경험을 축적하고 스스로 성장하는 에이전트 프레임워크 GNOSIS의 설계 원칙과 구현 사례를 소개합니다. 발표 대상 AI Agent 프레임워크 활용에 관심 있는 개발자 목차 PROLOGUE — 당신의 AI는 어제와 똑같다 INTRODUCTION — GNOSIS 30초 요약 ARCHITECTURE — 3-Loop + Constitution + 5층 기억…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "published": "2026-06-17",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "published": "2026-06-17",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "published": "2026-06-17",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "published": "2026-06-17",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "published": "2026-06-17",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "published": "2026-06-17",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
+    }
+  ]
+}
