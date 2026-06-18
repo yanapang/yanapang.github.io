@@ -1,0 +1,55 @@
+{
+  "date": "2026-06-19",
+  "generatedAt": "2026-06-19T08:28:33.097351+09:00",
+  "articles": [
+    {
+      "source": "네이버 D2",
+      "title": "스펙만 바꾸면 프롬프트가 따라옵니다 - 답변 생성 모델 자동화 파이프라인",
+      "url": "https://d2.naver.com/helloworld/2852215",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 입력 스펙이 자주 바뀌는 쇼핑 에이전트 답변 모델 개발에서, 변경된 스펙만 입력하면 결함 탐지/프롬프트 최적화/SFT 학습 데이터 생성을 에이전트가 폐쇄 루프로 돌리는 자동화 파이프라인을 설계하며 얻은 구조와 적용 경험을 공유합니다. 발표 대상 AI 서비스를 위한 스펙기반 프롬프트 최적화를 적용하고자 하시는 기획/AI엔지니어 분들 목차 Agent Spec Defect Detection 프롬프트 최적화…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "published": "2026-06-18",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "published": "2026-06-18",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "published": "2026-06-18",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "published": "2026-06-18",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "published": "2026-06-18",
+      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "published": "2026-06-18",
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases."
+    }
+  ]
+}
