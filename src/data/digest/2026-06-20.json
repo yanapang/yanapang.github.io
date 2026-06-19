@@ -1,0 +1,34 @@
+{
+  "date": "2026-06-20",
+  "generatedAt": "2026-06-20T07:44:05.254591+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "디자이너에게 AI로 뭐든 만들어보라고 한다면",
+      "url": "https://toss.tech/article/ai_contest",
+      "published": "2026-06-19",
+      "summary": "토스 디자인챕터에서 AI Contest를 열었어요. 그중 인상적이었던 네 가지 사례를 소개합니다."
+    },
+    {
+      "source": "토스 기술 블로그",
+      "title": "Spark Connect on Kubernetes #1: 견고한 Spark Connect 만들기",
+      "url": "https://toss.tech/article/spark-connect-on-kubernetes-1",
+      "published": "2026-06-19",
+      "summary": "Spark Connect 서버에 세션이 몰리면, 무거운 작업이 다른 사용자까지 느리게 만들고 그 서버가 죽는 순간 모두가 실패합니다. 이 문제들을 어떻게 풀었는지 공유합니다."
+    },
+    {
+      "source": "토스 기술 블로그",
+      "title": "2. 전문성 밖으로 나아가기",
+      "url": "https://toss.tech/article/technical-writing-2",
+      "published": "2026-06-19",
+      "summary": "Technical Writer의 고민과 전문성을 '토독'이라는 제품으로 만들면서, 기존의 전문성을 더 확장하는 과정을 담았습니다."
+    },
+    {
+      "source": "토스 기술 블로그",
+      "title": "1. 세상에 없던 직무를 만들어가기",
+      "url": "https://toss.tech/article/technical-writing-1",
+      "published": "2026-06-19",
+      "summary": "토스의 Technical Writer들이 어떻게 '문서를 쓰는 사람'에서 '조직의 지식 시스템을 설계하는 사람'으로 일을 넓혀왔는지 소개해요."
+    }
+  ]
+}
