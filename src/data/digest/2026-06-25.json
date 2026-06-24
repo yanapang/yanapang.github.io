@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-25",
+  "generatedAt": "2026-06-25T07:59:02.938247+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "es-toolkit: How a Small Internal Library Became a Global Project",
+      "url": "https://toss.tech/article/50693",
+      "published": "2026-06-24",
+      "summary": "*This is the English version of a previously published article . Hello! We&#x27;re Sojin Park, Head of Frontend Engineering at Toss, and Dayong Lee, Frontend Developer at Toss Bank. Today, we&#x27;d like to share the story of es-toolkit: how it started as a small utility function library inside…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "Kelos - 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크",
+      "url": "https://d2.naver.com/helloworld/3015479",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 쿠버네티스 네이티브 자율 코딩 에이전트 프레임워크 Kelos를 소개합니다. Kelos는 코딩 에이전트와 그 환경을 API화하고 관리할 수 있도록 해주는 오픈소스 프레임워크입니다. 발표 대상 AI 코딩 에이전트의 자동화에 고민이 있으신 분들 목차 Introduction Core concepts Self-development Integration Conclusion ◎ NAVER Engineering…"
+    },
+    {
+      "source": "카카오 기술 블로그",
+      "title": "개발을 넘어 AI로 사회문제를 해결하다",
+      "url": "https://tech.kakao.com/posts/825",
+      "published": "2026-06-23",
+      "summary": "카카오와 삼성이 함께 만든 첫 번째 AI 해커톤 이야기 지난 6월 13일부터 14일까지 경기도 용인 카카오 AI캠퍼스에서는 조금 특별한 해커톤이 열렸습니다. 바로 카카오테크 부트캠프와 삼성 청년 SW·AI 아카데미(SSAFY)가 함께한 「SSAFY X Kakao tech bootcamp AI Hackathon」입니다. 이번 해커톤은 단순히 개발 역량을 겨루는 경연대회가 아니었습니다. 카카오와 삼성전자가 그동안 운영해 온 대표적인 디지털 인재 양성 ..."
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "published": "2026-06-24",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "published": "2026-06-24",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "published": "2026-06-24",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
+    }
+  ]
+}
