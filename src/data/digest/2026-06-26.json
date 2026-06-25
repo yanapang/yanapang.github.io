@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-26T08:07:50.659833+09:00",
+  "articles": [
+    {
+      "source": "Hugging Face Blog",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "published": "2026-06-26",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Which tokens does a hybrid model predict better?",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "published": "2026-06-25",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "published": "2026-06-25",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles."
+    }
+  ]
+}
