@@ -1,0 +1,20 @@
+{
+  "date": "2026-06-27",
+  "generatedAt": "2026-06-27T07:59:07.469576+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "누군가는 토스를 테스트하는 동안, 우리는 테스트하는 법을 만듭니다.",
+      "url": "https://toss.tech/article/50893",
+      "published": "2026-06-26",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "published": "2026-06-26",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+    }
+  ]
+}
