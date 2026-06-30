@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-01",
+  "generatedAt": "2026-07-01T08:03:06.734471+09:00",
+  "articles": [
+    {
+      "source": "네이버 D2",
+      "title": "AI 에이전트 회사 차리기: 설립부터 어디서든 동기화까지",
+      "url": "https://d2.naver.com/helloworld/3897377",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER ENGINEERING DAY 2026(5월)에서 발표되었던 세션을 공개합니다. 발표 내용 AI 에이전트로 나만의 회사를 차리고, 어디서 접속하든 같은 구성원이 같은 목표로 일하게 만든 이야기입니다. 발표 대상 AI 에이전트 활용에 관심있는 분들 목차 PROLOGUE — Claude Code, 매일 쓰는데 왜 매번 처음인가요? PLATFORM — NaverMadCat이란 ORGANIZATION — 비서실장과 10개 부서 AUTOMATION — 라이프사이클 훅 SYNC — 어디서든 같은 회사…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "published": "2026-06-30",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "published": "2026-06-30",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "published": "2026-06-30",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "published": "2026-06-30",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "published": "2026-06-30",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "published": "2026-06-30",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "published": "2026-06-30",
+      "summary": ""
+    }
+  ]
+}
