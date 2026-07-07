@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-08",
+  "generatedAt": "2026-07-08T07:51:33.647905+09:00",
+  "articles": [
+    {
+      "source": "Hugging Face Blog",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "published": "2026-07-07",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "published": "2026-07-07",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "published": "2026-07-07",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "published": "2026-07-07",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
+    }
+  ]
+}
