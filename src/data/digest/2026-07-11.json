@@ -1,0 +1,20 @@
+{
+  "date": "2026-07-11",
+  "generatedAt": "2026-07-11T07:50:45.923987+09:00",
+  "articles": [
+    {
+      "source": "Hugging Face Blog",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "published": "2026-07-10",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "published": "2026-07-10",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
+    }
+  ]
+}
