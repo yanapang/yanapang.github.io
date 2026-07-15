@@ -1,0 +1,48 @@
+{
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-16T07:49:16.542592+09:00",
+  "articles": [
+    {
+      "source": "Hugging Face Blog",
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "published": "2026-07-15",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "published": "2026-07-15",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "published": "2026-07-15",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "published": "2026-07-15",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "published": "2026-07-15",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "published": "2026-07-15",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+    }
+  ]
+}
