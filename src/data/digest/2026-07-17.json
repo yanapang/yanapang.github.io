@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-17",
+  "generatedAt": "2026-07-17T07:48:55.471011+09:00",
+  "articles": [
+    {
+      "source": "Hugging Face Blog",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "published": "2026-07-16",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "published": "2026-07-16",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "published": "2026-07-16",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "published": "2026-07-16",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "published": "2026-07-16",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
+    }
+  ]
+}
