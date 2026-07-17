@@ -1,0 +1,20 @@
+{
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-18T07:38:36.583521+09:00",
+  "articles": [
+    {
+      "source": "Hugging Face Blog",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "published": "2026-07-17",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "published": "2026-07-17",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
+    }
+  ]
+}
