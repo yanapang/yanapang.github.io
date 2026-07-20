@@ -1,0 +1,20 @@
+{
+  "date": "2026-07-21",
+  "generatedAt": "2026-07-21T07:46:13.789720+09:00",
+  "articles": [
+    {
+      "source": "Hugging Face Blog",
+      "title": "Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "published": "2026-07-20",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "published": "2026-07-20",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
+    }
+  ]
+}
