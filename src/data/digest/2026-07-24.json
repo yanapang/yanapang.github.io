@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-24",
+  "generatedAt": "2026-07-24T07:46:39.845817+09:00",
+  "articles": [
+    {
+      "source": "Hugging Face Blog",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "published": "2026-07-23",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "published": "2026-07-23",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "url": "https://openai.com/index/ntt-data",
+      "published": "2026-07-22",
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
+    }
+  ]
+}
