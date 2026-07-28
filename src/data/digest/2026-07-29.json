@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-29T07:51:15.978024+09:00",
+  "articles": [
+    {
+      "source": "카카오 기술 블로그",
+      "title": "더 작고 강해진 Kanana SLM 개발",
+      "url": "https://tech.kakao.com/posts/826",
+      "published": "2026-07-27",
+      "summary": "안녕하세요. 카카오의 AI 모델 개발을 담당하는 카나나 LLM 조직에서 언어모델을 개발하고 있는 Kaya, Ryan, Wavy 입니다. 지난 “작지만 강한 Kanana Nano 효율적으로 개발하기”에서 비용 효율적으로 SLM(Small Language Model)을 개발하는 방법에 대해서 소개드렸었는데요, 이번 글에서는 더 강력해져서 돌아온 카카오의 두 번째 SLM 시리즈를 소개드리고자 합니다. 이번에 소개해드릴 모델은 Kanana-2-3B, Kana..."
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "published": "2026-07-28",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "published": "2026-07-28",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "published": "2026-07-27",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "published": "2026-07-28",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+    }
+  ]
+}
