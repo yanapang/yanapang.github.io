@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-31",
+  "generatedAt": "2026-07-31T07:55:57.733535+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "LLM은 똑똑한데, 왜 우리 회사 일은 모를까",
+      "url": "https://toss.tech/article/llm_context_topic",
+      "published": "2026-07-30",
+      "summary": "문서 · 코드 · 사내 메신저에 흩어진 정보를, 믿고 쓸 수 있는 컨텍스트로 만드는 여정"
+    },
+    {
+      "source": "토스 기술 블로그",
+      "title": "토스의 디바이스 팜 만들기",
+      "url": "https://toss.tech/article/device-farm-nebula",
+      "published": "2026-07-30",
+      "summary": "팀마다 맥북에 폰을 꽂던 시절을 끝내고, 실기기를 API 호출 한 번으로 여는 플랫폼을 만들며"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "published": "2026-07-30",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "published": "2026-07-30",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "published": "2026-07-29",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
+    }
+  ]
+}
