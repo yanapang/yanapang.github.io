@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-01",
+  "generatedAt": "2026-08-01T07:51:32.238852+09:00",
+  "articles": [
+    {
+      "source": "OpenAI Blog",
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "published": "2026-07-31",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "published": "2026-07-31",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "published": "2026-07-31",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "published": "2026-07-31",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
+      "published": "2026-07-30",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
+    }
+  ]
+}
