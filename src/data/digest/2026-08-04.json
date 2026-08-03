@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T07:52:10.822424+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "DS와 MLE가 함께 일하는 법",
+      "url": "https://toss.tech/article/ds-mle-cowork",
+      "published": "2026-08-03",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "published": "2026-08-03",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
+    }
+  ]
+}
