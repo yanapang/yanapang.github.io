@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-05T07:52:00.896620+09:00",
+  "articles": [
+    {
+      "source": "카카오 기술 블로그",
+      "title": "Beyond AI That Speaks Well: Making Kanana-o Speak the Way Users Want",
+      "url": "https://tech.kakao.com/posts/828",
+      "published": "2026-08-03",
+      "summary": "Hello, we are Martin (Daejin Jo), Abigail (Heayoung Park), and Edwin (Wooyoung Kang) from Kanana, the team responsible for developing AI models at Kakao. Our team focuses on building unified multimodal language models that can see, hear, and speak like hu..."
+    },
+    {
+      "source": "카카오 기술 블로그",
+      "title": "잘 말하는 AI를 넘어, 원하는 대로 말하는 AI로: Kanana-o 음성 생성 고도화 과정",
+      "url": "https://tech.kakao.com/posts/827",
+      "published": "2026-08-03",
+      "summary": "Intro 안녕하세요, 카카오의 AI 모델 개발을 담당하는 카나나(Kanana) 조직의 Martin(조대진), Abigail(박혜영), Edwin(강우영)입니다. 저희 팀에서는 사람처럼 보고, 듣고, 말하는 통합 멀티모달(Multimodal) 언어모델을 중점적으로 개발하고 있습니다. 지난 5월, 국내 최초로 공개한 통합 멀티모달 언어모델 공개 이후, 저희는 실제 서비스 환경에서 더 나은 사용자 경험을 제공하기 위해 계속해서 모델을 고도화하고 있습니다 ...."
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "published": "2026-08-04",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "published": "2026-08-04",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "published": "2026-08-04",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "published": "2026-08-03",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "published": "2026-08-03",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
+    }
+  ]
+}
