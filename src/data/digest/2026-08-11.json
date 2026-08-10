@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T07:26:17.739042+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "모노리포 희망편, 절망의 리포가 희망의 리포로 부활하기까지 걸린 1년",
+      "url": "https://toss.tech/article/52209",
+      "published": "2026-08-10",
+      "summary": "토스에서 100명이 넘는 엔지니어들이 모노리포에서 장점만을 누리기 위해 카탈로그를 도입한 이야기를 소개합니다."
+    },
+    {
+      "source": "네이버 D2",
+      "title": "우리 팀만의 vLLM 플러그인 만들기 2편 - 모델 변환부터 배포까지 AI-native로 자동화하기",
+      "url": "https://d2.naver.com/helloworld/7337586",
+      "published": "",
+      "summary": "1편 에서는 검색·추천 모델을 vLLM 사용자 정의 플러그인으로 옮겨 서빙 성능을 높인 과정을 소개했습니다. 모델을 vLLM에서 실행할 수 있게 된 뒤에는 또 다른 문제가 남았습니다. 모델마다 반복해야 하는 변환 작업이 복잡하고, vLLM의 빠른 변화까지 계속 따라가야 한다는 점입니다. Hugging Face 모델 하나를 vLLM에 올리는 과정은 버튼 한 번으로 끝나지 않습니다. ‘딸깍’ 한 번으로 완성할 수는 없습니다. 하지만 자동화를 우리 문제에 맞게 계속 ‘깎아’ 나갈 수는 있습니다. 저희는 변환 절차를 Claude Code…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "우리 팀만의 vLLM 플러그인 만들기 1편 - 검색 AI 모델 서빙 성능 극대화하기",
+      "url": "https://d2.naver.com/helloworld/0525182",
+      "published": "",
+      "summary": "네이버 플레이스 AI MLOps는 지난 1년간 검색과 추천에 사용하는 스코어링 모델의 서빙 구조를 vLLM 기반으로 전환했습니다. 이 글에서는 사내 Engineering Day에서 발표한 내용을 바탕으로, 모델 서빙 경로를 최적화해 성능을 높인 과정을 소개합니다. 먼저 결과부터 살펴보겠습니다. 0.6B 재순위화(reranking) 모델을 Hugging Face Transformer.encode 로 서빙했을 때 처리량은 63.85 QPS였습니다. 같은 모델과 GPU, 입력을 사용하면서 vLLM의 score 태스크로 옮기자…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "published": "2026-08-10",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "published": "2026-08-10",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "published": "2026-08-10",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "published": "2026-08-10",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "published": "2026-08-10",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "published": "2026-08-10",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "published": "2026-08-10",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "published": "2026-08-10",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
+    }
+  ]
+}
