@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T07:30:33.745460+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "AI에게 투자정보를 말하게 하기까지",
+      "url": "https://toss.tech/article/tech_talk_talk_1",
+      "published": "2026-08-13",
+      "summary": "근거를 고르고, 절차를 통제하고, 실패를 다시 쓰는 세 개의 관문"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "published": "2026-08-13",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "published": "2026-08-13",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "published": "2026-08-13",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "published": "2026-08-13",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "published": "2026-08-13",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
+    }
+  ]
+}
