@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-21T07:16:18.864455+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "전체 데이터를 브라우저에 두는 광고 대시보드 만들기",
+      "url": "https://toss.tech/article/ads_dashboard_fe",
+      "published": "2026-08-20",
+      "summary": "서버가 하던 필터링·정렬·검색·페이지네이션을 브라우저로 옮겼더니, 속도뿐 아니라 손대지 못하던 문제 네 개가 같이 풀렸습니다."
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "published": "2026-08-20",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "published": "2026-08-20",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "url": "https://openai.com/index/stampli",
+      "published": "2026-08-20",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+    }
+  ]
+}
