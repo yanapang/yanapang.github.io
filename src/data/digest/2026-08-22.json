@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-22T07:13:22.856784+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "LLM 서빙, 띄우는 것과 잘 띄우는 것 사이",
+      "url": "https://toss.tech/article/tech_talk_talk_2",
+      "published": "2026-08-21",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "published": "2026-08-21",
+      "summary": ""
+    }
+  ]
+}
