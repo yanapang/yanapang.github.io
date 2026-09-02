@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T08:41:04.521728+09:00",
+  "articles": [
+    {
+      "source": "네이버 D2",
+      "title": "[네이버피셜] 네이버 개발자라면 꼭 만나게 됩니다",
+      "url": "https://d2.naver.com/news/3092933",
+      "published": "",
+      "summary": "네이버의 기술과 개발 경험을 개발자들과 나누는 Developer Experience 팀의 인터뷰가 네이버피셜 에 공개됐습니다. ​ Developer Experience 팀은 D2를 비롯한 기술 콘텐츠를 만들고, 네이버 개발자의 성장 단계에 맞는 교육과 기술 공유 프로그램을 통해 개발자의 경험과 노하우를 연결하고 있습니다. ​ 이번 인터뷰에서는 사람과 사람, 사람과 도구를 잇는 Developer Experience 팀의 역할과 네이버의 공유 문화, 그리고 AI 시대에도 동료 간의 대화가 중요한 이유 를 들어볼 수 있습니다. ​ ​…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "published": "2026-09-02",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "published": "2026-09-02",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "published": "2026-09-01",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
+    }
+  ]
+}
