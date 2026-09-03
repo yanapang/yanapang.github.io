@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-04T08:41:01.074956+09:00",
+  "articles": [
+    {
+      "source": "네이버 D2",
+      "title": "FE News 26년 9월 소식을 전해드립니다.",
+      "url": "https://d2.naver.com/news/7360495",
+      "published": "",
+      "summary": "26년 9월 소식에서는 다음과 같은 유용한 정보들을 만나보실 수 있습니다. 주요소식 ​ ​ The AI Engineering Skills Map Andrew Ng이 DeepLearning.AI 팀과 함께 1만 건이 넘는 채용 공고 분석과 전문가 인터뷰, 설문을 종합해 정리한 AI 엔지니어링 역량 지도다. AI 애플리케이션 구축·배포, 소프트웨어 엔지니어링 기본기, 코딩 에이전트 활용, 그리고 무엇을 만들지 정하는 일(shaping the build) 네 가지를 지금 익힐 가치가 큰 역량으로 꼽는다. 저자는 이 역량들이 \"AI…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "published": "2026-09-03",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "published": "2026-09-03",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "published": "2026-09-03",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "published": "2026-09-03",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "published": "2026-09-03",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "published": "2026-09-03",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "published": "2026-09-03",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Safety overview: GPT-6 Astra",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "published": "2026-09-03",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
+    }
+  ]
+}
