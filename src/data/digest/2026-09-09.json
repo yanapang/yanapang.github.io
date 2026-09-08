@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T08:45:04.022951+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "AI가 팀 규칙을 지키도록 하는 방법",
+      "url": "https://toss.tech/article/52631",
+      "published": "2026-09-08",
+      "summary": ""
+    },
+    {
+      "source": "카카오 기술 블로그",
+      "title": "if(kakao)2026 첫째 날, 기술 세션 소개",
+      "url": "https://tech.kakao.com/posts/833",
+      "published": "2026-09-07",
+      "summary": "if(kakao)2026 첫째 날은 AI 방향성, 신뢰와 안전, Model & Agent, 상생과 성장에 대해 이야기합니다. 키노트를 제외한 총 23개의 기술 세션들이 아래와 같이 진행됩니다. [AI 방향성] 1. You Only Train Once: 더 효율적으로 Kanana SLM 개발하기 (류민호, 한규빈) 단 한 번의 학습으로, 4개의 Small Dense Model Family를 개발한 노하우를 공유합니다! 최근 공개한 Kanana-2 SLM ..."
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "published": "2026-09-08",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "published": "2026-09-08",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "published": "2026-09-08",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "published": "2026-09-08",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "published": "2026-09-08",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "published": "2026-09-08",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
+    }
+  ]
+}
