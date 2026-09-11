@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-12",
+  "generatedAt": "2026-09-12T08:41:09.022827+09:00",
+  "articles": [
+    {
+      "source": "OpenAI Blog",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "published": "2026-09-11",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "published": "2026-09-10",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+    }
+  ]
+}
