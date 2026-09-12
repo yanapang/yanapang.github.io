@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T08:33:56.707971+09:00",
+  "articles": [
+    {
+      "source": "OpenAI Blog",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "published": "2026-09-14",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "published": "2026-09-11",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
+    }
+  ]
+}
