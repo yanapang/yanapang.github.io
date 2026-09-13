@@ -29,8 +29,8 @@ jobs:
 
       - name: Commit and push digest data
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "yanapang"
+          git config user.email "46346904+yanapang@users.noreply.github.com"
           git add src/data/digest/ scripts/seen.json
           git diff --staged --quiet || git commit -m "digest: $(date -u +%Y-%m-%d) daily tech digest"
           git push
