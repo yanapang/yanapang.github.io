@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T08:49:32.998141+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "토스증권이 GPU-aware를 넘어 GPU-native 클러스터를 구축한 방법",
+      "url": "https://toss.tech/article/gpu-native-cluster",
+      "published": "2026-09-15",
+      "summary": "토스증권이 Kubernetes GPU 클러스터의 운영 한계를 해결한 방법"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "published": "2026-09-15",
+      "summary": ""
+    }
+  ]
+}
