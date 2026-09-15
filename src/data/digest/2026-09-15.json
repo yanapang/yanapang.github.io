@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T09:04:45.754204+09:00",
+  "articles": [
+    {
+      "source": "OpenAI Blog",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "published": "2026-09-14",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
+    }
+  ]
+}
