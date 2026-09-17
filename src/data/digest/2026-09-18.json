@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-18T08:47:33.772664+09:00",
+  "articles": [
+    {
+      "source": "OpenAI Blog",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "published": "2026-09-17",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
+    }
+  ]
+}
