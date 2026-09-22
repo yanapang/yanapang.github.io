@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T09:23:19.360463+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "도메인 지식 없는 디자이너가 팀의 기준을 바꾼 방법",
+      "url": "https://toss.tech/article/remittance_transfer",
+      "published": "2026-09-21",
+      "summary": "은행 지식이 없던 디자이너가 규제가 가득한 도메인에서 어떻게 팀의 기준을 바꿨는지 이야기해 보려고 해요."
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "published": "2026-09-21",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "published": "2026-09-21",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "published": "2026-09-21",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "published": "2026-09-21",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "published": "2026-09-21",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "published": "2026-09-21",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "published": "2026-09-21",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
+    }
+  ]
+}
