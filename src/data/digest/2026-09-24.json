@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T09:06:27.638961+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "연 300시간을 아낀 AI 상담 서비스",
+      "url": "https://toss.tech/article/AI_chatbot",
+      "published": "2026-09-23",
+      "summary": "전화 문의를 줄이려다 사용자의 경험에서 답을 찾은 이야기예요."
+    },
+    {
+      "source": "카카오 기술 블로그",
+      "title": "개인화 추천을 위한 랭킹 모델 개발기",
+      "url": "https://tech.kakao.com/posts/837",
+      "published": "2026-09-22",
+      "summary": "안녕하세요! 카카오에서 유저 편의성을 높이는 데 관심이 많은 토리입니다. 카카오에는 정말 다양한 서비스와 그 안에 쌓이는 방대한 데이터가 있습니다. 이 많은 콘텐츠와 유저를 잘 이어주는 역할을 하는 것이 바로 추천이고, 그중에서도 \"얼마나 이 유저에게 맞는 콘텐츠를 보여주는가\"는 서비스 체류시간과 만족도에 직결되는 핵심 문제입니다. 그래서 세그먼트 단위로 동작하던 추천 로직을, 유저 개인의 히스토리를 반영하는 개인화 랭킹 모델로 교체하는 프로젝트를 진행..."
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "published": "2026-09-23",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "published": "2026-09-23",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "published": "2026-09-23",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "published": "2026-09-23",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "published": "2026-09-23",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "published": "2026-09-23",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
+    }
+  ]
+}
