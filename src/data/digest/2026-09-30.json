@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T09:52:57.946520+09:00",
+  "articles": [
+    {
+      "source": "네이버 D2",
+      "title": "Hive는 잊으려 했지만, Spark는 기억하고 있었다: 사라진 get_table RPC 복원기",
+      "url": "https://d2.naver.com/helloworld/7314597",
+      "published": "",
+      "summary": "TApplicationException · UNKNOWN_METHOD Invalid method name: 'get_table' 이 글은 네이버의 Hadoop 플랫폼인 C3의 Metastore를 Apache Hive 4.2로 올리는 과정에서 Spark 잡(job)이 실패한 현상과 그 원인을 추적해, Metastore Thrift 인터페이스에서 조용히 사라졌던 RPC 하나를 복원하기까지의 과정을 다룹니다. 코드 변경 자체는 IDL 두 줄과 서버 구현 몇 줄이 전부지만, 그 이면에는 Thrift RPC의 동작 방식과 Hive와…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "published": "2026-09-29",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "published": "2026-09-29",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published": "2026-09-29",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "published": "2026-09-29",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "published": "2026-09-29",
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "published": "2026-09-28",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "published": "2026-09-28",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
+    }
+  ]
+}
