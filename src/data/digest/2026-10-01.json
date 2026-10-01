@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T09:54:51.453239+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "9인조 다람쥐 아이돌을 데뷔시켰습니다",
+      "url": "https://toss.tech/article/chipmunk",
+      "published": "2026-09-30",
+      "summary": "가입하고 한 번도 열어보지 않던 적금을, 매일 열어보게 만들었어요."
+    },
+    {
+      "source": "네이버 D2",
+      "title": "에이전트, 개념부터 같이 정리해봐요 - 워크플로우 · 하네스 · Context/Memory · MCP/A2A",
+      "url": "https://d2.naver.com/helloworld/8118359",
+      "published": "",
+      "summary": "네이버 사내 Tech Meetup에서 발표되었던 인기 세션을 공유합니다. ​ 에이전트를 개발하다 보면 같은 개념을 서로 다른 뜻으로 쓰고 있어서 논의가 겉도는 경험, 한 번쯤 해보셨을 것 같습니다. ​ \"이거 에이전트인가요?\" \"하네스를 만들어야죠\" — 그런데 하네스가 정확히 무엇인가요? \"Context 에 넣어두면 되죠\" \"그건 Memory 아닌가요?\" \"그건 MCP 인가요 A2A 인가요? 기존 REST API 랑 뭐가 다른가요?\" ​ 사실 이 개념들은 사외에서도 정리가 덜 된 것들입니다. 그래서 원문(Anthropic ·…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "published": "2026-09-30",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "published": "2026-09-30",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "published": "2026-09-30",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+    }
+  ]
+}
