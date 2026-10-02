@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-02T10:11:44.108049+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "추천 후보는 많을수록 좋을까? TopK를 최적화해 전환율을 높인 방법",
+      "url": "https://toss.tech/article/53545",
+      "published": "2026-10-01",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "published": "2026-10-01",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "published": "2026-10-01",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "published": "2026-10-01",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "published": "2026-10-01",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
+    }
+  ]
+}
