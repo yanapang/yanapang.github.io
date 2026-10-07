@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T10:07:40.279293+09:00",
+  "articles": [
+    {
+      "source": "Hugging Face Blog",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "published": "2026-10-06",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "published": "2026-10-06",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "published": "2026-10-06",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "published": "2026-10-06",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "published": "2026-10-06",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+    }
+  ]
+}
