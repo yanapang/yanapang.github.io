@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T10:26:22.634108+09:00",
+  "articles": [
+    {
+      "source": "네이버 D2",
+      "title": "FE News 26년 10월 소식을 전해드립니다.",
+      "url": "https://d2.naver.com/news/8711937",
+      "published": "",
+      "summary": "주요소식 ​ The Story of VS Code Visual Studio Code 공식 채널이 공개한 약 1시간 38분 분량의 다큐멘터리로, Erich Gamma가 이끈 취리히 팀이 브라우저용 편집기 컴포넌트 Monaco Editor를 만들던 시기부터 데스크톱 VS Code 발표와 오픈 소스 전환까지의 과정을 30여 명의 관계자 인터뷰로 보여 준다. 확장을 별도 프로세스에서 실행하고 한번 공개한 API는 바꾸지 않는 원칙, TypeScript 서버에서 출발한 LSP, UI와 확장 호스트를 분리한 구조가 원격 개발과…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "D2Coding 폰트 1.4.0 릴리즈 소식을 전합니다.",
+      "url": "https://d2.naver.com/news/7193556",
+      "published": "",
+      "summary": "D2 Coding 은 한글과 영문, 숫자, 기호가 함께 있는 코드에서도 일정한 간격과 높은 가독성을 유지하도록 만든 코딩 전용 글꼴입니다. ​ 이번 1.4.0에서는 기존의 빗금이 들어간 숫자 0 대신 점이 들어간 0을 선택해서 사용할 수 있는 기능을 추가했습니다. 일부 크기에서 글자가 기준선보다 한 픽셀 위에 표시되던 문제도 수정했으며, 마침표의 의미를 다르게 보이게 할 수 있었던 리거처 네 종류를 제거했습니다. ​ 최근 공개한 1.3.4와 1.3.5의 개선 사항도 모두 포함되어 있습니다. 한글 주석이 포함된 줄에서도 코딩…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "published": "2026-10-07",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "published": "2026-10-07",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "published": "2026-10-07",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "published": "2026-10-07",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "published": "2026-10-07",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
+    }
+  ]
+}
