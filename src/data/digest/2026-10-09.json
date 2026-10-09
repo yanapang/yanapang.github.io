@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-09T10:33:05.780633+09:00",
+  "articles": [
+    {
+      "source": "네이버 D2",
+      "title": "Python의 GC가 멀티프로세싱과 만나면 생기는 일 - Python과 Airflow, 그리고 관련된 문제 해결기 2편",
+      "url": "https://d2.naver.com/helloworld/4149925",
+      "published": "",
+      "summary": "Python의 멀티프로세싱과 Airflow의 task 동작 방식 - Python과 Airflow, 그리고 관련된 문제 해결기 1편 에서는 Airflow가 task를 실행할 때 요구되는 병렬성과 격리성을 살펴보고, 이를 만족하기 위해 Airflow가 task마다 만들었다 버리는 단기 프로세스와 만들어 두고 재사용하는 장기 프로세스를 모두 fork 방식으로 생성한다는 점을 확인했습니다. fork는 생성 속도와 메모리 효율 모두에서 spawn을 크게 앞섰지만, 두 가지 한계가 따라온다는 점도 언급했습니다. 부모의 자원을 그대로…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "published": "2026-10-08",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "published": "2026-10-07",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "published": "2026-10-08",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "published": "2026-10-08",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "published": "2026-10-08",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "published": "2026-10-08",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+    }
+  ]
+}
