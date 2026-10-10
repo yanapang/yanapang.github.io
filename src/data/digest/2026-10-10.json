@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T10:23:45.953775+09:00",
+  "articles": [
+    {
+      "source": "Hugging Face Blog",
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "published": "2026-10-09",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "published": "2026-10-09",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "published": "2026-10-09",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+    }
+  ]
+}
