@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T11:46:14.340646+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "서비스 개발에 집중할 수 있는 AI 플랫폼 만들기",
+      "url": "https://toss.tech/article/ai-platform-foundation",
+      "published": "2026-10-13",
+      "summary": "서비스 팀의 반복되는 고민을 줄여주는 토스의 AI 플랫폼을 소개합니다."
+    },
+    {
+      "source": "토스 기술 블로그",
+      "title": "CPU 뼛속까지 써먹고, Milvus 사이징 기준을 만들기까지",
+      "url": "https://toss.tech/article/milvus-optimization-and-sizing",
+      "published": "2026-10-12",
+      "summary": "검색 품질을 유지하며 같은 서버에서 처리량을 높인 토스증권의 Milvus 최적화 이야기"
+    },
+    {
+      "source": "카카오 기술 블로그",
+      "title": "if(kakao)26, 온라인 라이브로 함께해요!",
+      "url": "https://tech.kakao.com/posts/839",
+      "published": "2026-10-11",
+      "summary": "if(kakao)26, 온라인 라이브로 함께하세요 10월 13일과 14일, 카카오 AI 캠퍼스에서 if(kakao)26이 열립니다. 현장에 함께하기 어려운 분들도 온라인으로 발표를 만나보실 수 있습니다. 키노트를 포함한 모든 발표 세션이 라이브 스트리밍으로 제공되며, 누구나 온라인 시청이 가능합니다. if(kakao)26 DAY 1 키노트 & AI 시대의 개발자 신뢰와 안전 AI 방향성 상생과 성장 Model & Agent : if(kakao)..."
+    }
+  ]
+}
