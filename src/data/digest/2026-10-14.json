@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T09:44:28.402027+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "디자이너의 아이디어가 금융상품이 되기까지",
+      "url": "https://toss.tech/article/rpg-savings",
+      "published": "2026-10-13",
+      "summary": "요청받지 않은 경험 개선을, 팀이 출시할 이유로 바꾼 과정을 공유해요."
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "published": "2026-10-13",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "published": "2026-10-13",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+    }
+  ]
+}
