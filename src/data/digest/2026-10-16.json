@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T08:58:10.939188+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "토스뱅크가 패키지를 관리하는 방식 #1: 패키지를 ESM으로만 제공하기로 했어요",
+      "url": "https://toss.tech/article/package-management-1",
+      "published": "2026-10-15",
+      "summary": "ESM과 CJS를 함께 제공할 때 생길 수 있는 상태 분리와 타입 누락 문제를 살펴보고, 패키지를 ESM-only로 전환한 이유를 소개해요."
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "published": "2026-10-15",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "published": "2026-10-15",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "published": "2026-10-15",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "published": "2026-10-15",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "published": "2026-10-15",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+    }
+  ]
+}
