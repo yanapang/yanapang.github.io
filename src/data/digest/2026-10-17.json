@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T09:02:50.854199+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "실행은 도메인별로, 문맥은 한 레포에",
+      "url": "https://toss.tech/article/dw-airflow-migration",
+      "published": "2026-10-16",
+      "summary": "중앙 DW Airflow를 멈추지 않고 도메인별 DW로 나눈 9개월"
+    },
+    {
+      "source": "토스 기술 블로그",
+      "title": "토스뱅크가 패키지를 관리하는 방식 #2: 토스뱅크 패키지의 세 가지 기준",
+      "url": "https://toss.tech/article/package-management-2",
+      "published": "2026-10-16",
+      "summary": "안정성, 예측 가능성, 디버깅 편의성. 패키지가 갖춰야 할 세 가지 기준과, 문법 변환과 번들링을 사용하는 서비스에 맡긴 이유를 소개해요."
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "published": "2026-10-16",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "published": "2026-10-16",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "published": "2026-10-16",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "published": "2026-10-16",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+    }
+  ]
+}
