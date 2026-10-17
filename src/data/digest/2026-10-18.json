@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T08:37:39.797821+09:00",
+  "articles": [
+    {
+      "source": "OpenAI Blog",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "published": "2026-10-16",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+    }
+  ]
+}
