@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T09:48:45.089055+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "평균 CPU는 여유로운데, 커밋은 왜 느릴까?",
+      "url": "https://toss.tech/article/nic-interrupt-bottleneck",
+      "published": "2026-10-19",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "published": "2026-10-19",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "published": "2026-10-19",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+    }
+  ]
+}
