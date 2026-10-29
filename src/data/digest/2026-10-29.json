@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T10:23:11.534396+09:00",
+  "articles": [
+    {
+      "source": "카카오 기술 블로그",
+      "title": "팀이 신뢰할 수 있는 AI 분석 환경 만들기: 추천팀의 컨텍스트 설계",
+      "url": "https://tech.kakao.com/posts/844",
+      "published": "2026-10-27",
+      "summary": "안녕하세요. 카카오톡 숏폼 추천 모델을 개발하고 있는 루퍼트(rupert)입니다. 저희 추천팀은 추천 지표 분석에 AI 에이전트를 사용합니다. AI 에이전트에게 분석을 요청하면, 에이전트가 미리 정리해 둔 지침 문서(CLAUDE.md)를 읽고 SQL을 작성해 기존 Hadoop 환경에서 실행한 뒤 집계 결과를 리포트로 완성합니다. 지난 글에서는 데이터 엔지니어, 분석가만 알고 있던 로그 데이터 접근 방법과 분석 기준을 AI를 통해 조회하는 사례를 소개했습..."
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "published": "2026-10-28",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "published": "2026-10-28",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "published": "2026-10-28",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "published": "2026-10-28",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+    }
+  ]
+}
