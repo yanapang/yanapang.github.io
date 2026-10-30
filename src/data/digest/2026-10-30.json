@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T10:25:54.686340+09:00",
+  "articles": [
+    {
+      "source": "네이버 D2",
+      "title": "사이드카의 선언적 관리: OpenKruise SidecarSet 도입과 운영",
+      "url": "https://d2.naver.com/helloworld/2983631",
+      "published": "",
+      "summary": "Kubernetes에서 서비스를 운영하다 보면 메인 컨테이너 옆에 사이드카(sidecar) 컨테이너를 붙이는 일이 흔합니다. 사이드카에는 로그와 메트릭 수집, 프록시처럼 주 기능은 아니지만 같은 Pod 안에서 함께 실행되어야 하는 기능이 포함됩니다. 저희 팀이 운영하는 관리형 데이터베이스 서비스도 DB 인스턴스를 Pod 단위로 실행하고, 그 Pod에 DB 컨테이너 외에 헬스 체크, 메트릭과 로그 수집 등을 위한 사이드카를 함께 둡니다. 이 사이드카들은 DB와 같은 데이터 볼륨에 접근해야 하므로 같은 Pod 안에 있어야 하지만,…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "published": "2026-10-29",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "published": "2026-10-29",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "published": "2026-10-29",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "published": "2026-10-29",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "published": "2026-10-29",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "published": "2026-10-29",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "published": "2026-10-29",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+    }
+  ]
+}
