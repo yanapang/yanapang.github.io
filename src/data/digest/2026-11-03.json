@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T12:09:32.863532+09:00",
+  "articles": [
+    {
+      "source": "네이버 D2",
+      "title": "컨테이너처럼 쓰고, VM처럼 격리하기",
+      "url": "https://d2.naver.com/helloworld/2265641",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 컨테이너처럼 쓰고, VM처럼 격리하기: kata-containers with GPU NAVER D2 | 컨테이너처럼 쓰고, VM처럼 격리하기: kata-containers with GPU naver.me ​ 발표 내용 Kubernetes GPU 노드를 VM으로 격리해 나눠 쓰면서, 호스트 수준의 성능까지 최적화한 방법을 소개합니다. ​ 발표 대상 여러 사용자가 GPU node를 함께 쓰는 환경에서 격리를…"
+    },
+    {
+      "source": "카카오 기술 블로그",
+      "title": "옮기는 것보다 증명이 어렵다",
+      "url": "https://tech.kakao.com/posts/845",
+      "published": "2026-11-02",
+      "summary": "클레임 검색 색인의 CDC 전환과 검증 기록 요약 커머스 클레임(취소·교환·반품) 검색 색인의 변경 수집 방식을 변경 알림 기반에서 데이터베이스 변경 로그 기반, 즉 CDC로 전환했습니다. 기존 구조에서는 알림이 발행되지 않은 변경이 색인에 반영되지 않았고, 건의 체류 시간을 계산하는 기준시각이 무관한 필드 수정에 갱신되는 문제가 있었습니다. 전환보다 어려웠던 작업은 새 색인이 맞다는 것을 보이는 일이었습니다. 누락·값·지연 세 축으로 대조한 결과, 보..."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "published": "2026-11-02",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "published": "2026-11-02",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published": "2026-11-02",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "published": "2026-11-02",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "published": "2026-11-02",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
+    }
+  ]
+}
