@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T11:35:36.863592+09:00",
+  "articles": [
+    {
+      "source": "네이버 D2",
+      "title": "Chaos Mesh로 Kubernetes 앱의 장애 내구성 검증하기",
+      "url": "https://d2.naver.com/helloworld/6523094",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 Kubernetes 상에서 가상 인프라 장애를 통해 시스템을 사전에 검증하고 장애를 예방하는 기술을 소개합니다. ​ 발표 대상 Chaos Engineering 도입을 고민중인 개발자 ​ 목차 도입 : Chaos Engineering PART 1. Chaos Mesh 소개 Chaos Mesh 란 주입 매커니즘 Workflow PART 2. 실제 서비스에 적용하기 장애 제어와 테스트 테스트 구성과 자동화…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "AI 산출물이 프로덕션이 되기까지-AI와 디자인시스템이 함께 일하는 법",
+      "url": "https://d2.naver.com/helloworld/2568242",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI변화와 함께 성장하는 디자인시스템을 소개합니다. ​ AI 산출물이 프로덕션으로 이어지지 못하는 5가지 이유 스펙·HTML·이미지 어떤 입력이든 Figma로 모으는 전략과, Figma를 중심에 둔 이유 AI와 설계자가 같은 블록으로 조립하도록 컴포넌트·디자인 토큰·design.md로 설계 의도를 표현하는 방법 접근성·인터랙션·엣지 케이스가 담긴 코드 컴포넌트와 Code Connect로 Figma와…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "검수도 답변도 호출도 AI가? 커머스API의 2026",
+      "url": "https://d2.naver.com/helloworld/7749530",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 같은 API 스펙이 AI 에게 검수되고, 문의 답변의 근거가 되고, tool 로 호출되기까지 — 커머스API 플랫폼이 올해 진행한 AI native 과제 세 건의 설계 결정과 운영 결과를 소개합니다. ​ 발표 대상 API 를 만들거나 운영하는 백엔드 개발자 게이트웨이·플랫폼 운영자 LLM·MCP 를 서비스에 연결하려는 개발자 ​ 목차 도입 : 우리가 맡은 플랫폼과 AI 로 할 수 있게 된 것 1장.…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "Socket.IO 서버를 여러 Pod에서 운영하기",
+      "url": "https://d2.naver.com/helloworld/3517874",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 Socket.IO와 n3r 기반의 소켓 서버를 자체 구축하면서, 여러 Pod 사이의 이벤트 전달과 안정적인 연결 유지를 위한 설계와 검증 과정, 운영 경험을 정리해 공유합니다. ​ <참고> 영상속 사내용어 n3r &#x3d; 네이버 사내 쿠버네티스 기반 컨테이너 플랫폼 ​ 발표 대상 WebSocket이나 Socket.IO 서버를 Kubernetes 위에서 여러 인스턴스로 운영하려는 백엔드 개발자 ​…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "published": "2026-11-11",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "published": "2026-11-11",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "published": "2026-11-11",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "published": "2026-11-11",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "published": "2026-11-10",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
+    }
+  ]
+}
