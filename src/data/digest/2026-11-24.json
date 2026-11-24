@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T14:40:33.800221+09:00",
+  "articles": [
+    {
+      "source": "토스 기술 블로그",
+      "title": "목적마다, 상품마다 늘던 모델을 하나로: 금융 도메인에 멀티태스크 학습 적용하기",
+      "url": "https://toss.tech/article/multi-task-learning-in-finance",
+      "published": "2026-11-23",
+      "summary": "목적과 상품이 늘 때마다 같이 늘어나던 모델을, 늘어나도 하나로 유지되는 구조로 바꾼 이야기"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "AI 신입사원을 뉴스 데이터 시니어로 키우는 레포, news-data",
+      "url": "https://d2.naver.com/helloworld/3284900",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI 에이전트가 뉴스 데이터를 직접 찾고 추출·분석까지 수행하는 하네스 레포 news-data를 소개합니다. 작업마다 배운 것을 회고와 PR로 되돌려 도메인을 모르는 신입사원 같은 에이전트를 시니어로 키우는 과정과 운영하며 부딪힌 한계, 앞으로의 방향을 공유합니다. ​ 발표 대상 코딩 에이전트에게 사내 도메인 업무를 맡겨 보고 싶은 개발자 흩어진 데이터 문서와 도메인 지식을 정리하고 싶은 데이터…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "새벽 3시 54분, Agent가 먼저 분석하고 처리했습니다",
+      "url": "https://d2.naver.com/helloworld/1126768",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 개발과 운영 당번을 함께 맡으며 새벽 알림에 깨는 일, 언제까지 사람이 해야 할까요? 원인을 찾는 일부터 직접 조치하는 일까지 AI Agent에게 안심하고 맡길 수 있도록 풀어 간 경험을 공유 드립니다. ​ 발표 대상 개발과 서비스 운영(온콜)을 함께 맡고 있는 개발자·엔지니어 AI Agent에게 조사·조치 같은 실제 운영 업무를 맡기려는 개발자 사내 Agent 도입을 검토하는 팀 ​ 목차 도입 - 어느…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "뇌를 닮은 세컨드 브레인: 토큰 낭비 없는 RAG",
+      "url": "https://d2.naver.com/helloworld/5087915",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 기존 RAG의 텍스트 덤프 및 토큰 낭비 한계를 극복하고, 최신 인지 메모리 논문 기법을 결합해 지식 자율 진화와 99% 재현율을 달성하는 차세대 AI 메모리 아키텍처를 소개합니다. ​ 발표 대상 RAG의 검색 효율과 답변 품질 개선에 관심 있는 개발자 AI 에이전트의 메모리 관리와 토큰 비용 절감에 관심 있는 개발자 ​ 목차 요청마다 다시 읽히는 토큰 다시 읽는 토큰 가운데 실제로 쓰이는 비율 넣은…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "GPU 노드 검증 자동화: 상시 점검부터 부하 검증까지",
+      "url": "https://d2.naver.com/helloworld/7131556",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ GPU 노드 검증 자동화: 상시 점검부터 부하 검증까지 (네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다.) [발표... NAVER D2 | GPU 노드 검증 자동화: 상시 점검부터 부하 검증까지 (네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다.) [발표... naver.me ​ 발표…"
+    },
+    {
+      "source": "네이버 D2",
+      "title": "Spark 배치 파이프라인 Distributed Tracing 도입",
+      "url": "https://d2.naver.com/helloworld/2526679",
+      "published": "",
+      "summary": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 Apache Spark가 지원하지 않는 분산 추적을 비즈니스 로직 수정 없이 플러그인 형태로 제공하여 연관된 애플리케이션들과 한 흐름으로 잇는 방법을 소개하고, 관측 결과를 성능 개선과 AI Agent 진단에 연결한 경험을 공유합니다. ​ 발표 대상 Spark 배치 처리의 관측성 확보와 성능 최적화에 관심 있는 개발자 ​ 목차 인트로 Observability 분산추적과 OpenTelemetry 배치…"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "published": "2026-11-23",
+      "summary": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "published": "2026-11-23",
+      "summary": ""
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "published": "2026-11-23",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published": "2026-11-23",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
+    },
+    {
+      "source": "OpenAI Blog",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published": "2026-11-23",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
+    }
+  ]
+}
